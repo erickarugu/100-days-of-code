@@ -1,29 +1,28 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: March 21, Saturday 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Microservices and APIs Projects on freecodecamp. 
+Created a URL Shortener Microservice using MongoDB and Node.js. Learnt how to play with GET and PUT action methods to create API endpoints. I didn't work on the FrontEnd though ^ 0 ^
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** The challenge was tricky and eye opening. Redirecting to the original url from the shortened url was a tussle that kept me stuck for almost 30 minutes only to discover the solution was one line of code.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [URL Shortener Microservice App](https://knowing-silver-countess.glitch.me)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 0: March 21, Saturday
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Calculator App](https://knowing-silver-countess.glitch.me)
 
 
-### Day 1: June 27, Monday
+### Day 1: March 22, Sunday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** 
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
