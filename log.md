@@ -11,14 +11,14 @@ Created a URL Shortener Microservice using MongoDB and Node.js. Learnt how to pl
 
 **Article**
 Today I read an interesting article "Learn to Code From Home: The Coronavirus Quarantine Developer Skill Handbook
-" by Quincy Larson the founder of [freecodecamp](https://www.freecodecamp.org/) on how to take advantage of the freely available learning resources and level up your Dev Skills during this quarantine period. In the article, he shared a couple of these resources and I will be visiting them in the course of my journey.
+" by [Quincy Larson](https://www.freecodecamp.org/news/author/quincylarson/) the founder of [freecodecamp](https://www.freecodecamp.org/) on how to take advantage of the freely available learning resources and level up your Dev Skills during this quarantine period. In the article, he shared a couple of these resources and I will be visiting them in the course of my journey.
 [Learn to Code From Home: The Coronavirus Quarantine Developer Skill Handbook](https://www.freecodecamp.org/news/coronavirus-academy/)
 
 ### Day 1: March 22, Sunday
 
-**Today's Progress**: Started and finished the Data Visualization Certification challenges on freecodecamp. I will do the projects next.
+**Today's Progress**: Started and finished the Data Visualization Certification challenges on freecodecamp. I will start working on the projects soon.
 
-**Thoughts**: I enjoyed learning how to use the D3.js Javascript library. Finally, learnt how to create a pie chart and bar graph using JS! I have always been curious before today. Also started learning how to use AJAX to hadle APIs.
+**Thoughts**: I enjoyed learning how to use the D3.js Javascript library. Finally, I learnt how to create a pie chart and bar graph using JS! Also started learning how to use AJAX to work with APIs still on the Data Visualization path.
 
 **Link(s) to work**: [Freecodecamp Data Visualization](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/)
 
@@ -33,7 +33,7 @@ Learnt how to work with UTC and Unix timestamps.
 **Link(s) to work**: [Timestamp Microservice](https://robust-sapphire-sole.glitch.me/)
 
 **Article**:
-I also read an interesting article by [Jesica Chan] on freecodecamp news and learnt about the Tomato Timer promodoro WebApp
+I also read an interesting article by [Jesica Chan](https://www.freecodecamp.org/news/author/thecodercoder/) on freecodecamp news and learnt about the Tomato Timer promodoro WebApp
 .
 1. [TomatoTimer](https://tomato-timer.com/)
 1. [Staying productive in the age of social distancing](https://www.freecodecamp.org/news/staying-productive-in-the-age-of-social-distancing/)
