@@ -9,10 +9,10 @@ Created a URL Shortener Microservice using MongoDB and Node.js. Learnt how to pl
 
 **Link to work:** [URL Shortener Microservice App](https://knowing-silver-countess.glitch.me)
 
-**Article**
+**Article(s)**:
 Today I read an interesting article "Learn to Code From Home: The Coronavirus Quarantine Developer Skill Handbook
 " by [Quincy Larson](https://www.freecodecamp.org/news/author/quincylarson/) the founder of [freecodecamp](https://www.freecodecamp.org/) on how to take advantage of the freely available learning resources and level up your Dev Skills during this quarantine period. In the article, he shared a couple of these resources and I will be visiting them in the course of my journey.
-[Learn to Code From Home: The Coronavirus Quarantine Developer Skill Handbook](https://www.freecodecamp.org/news/coronavirus-academy/)
+1. [Learn to Code From Home: The Coronavirus Quarantine Developer Skill Handbook](https://www.freecodecamp.org/news/coronavirus-academy/)
 
 ### Day 1: March 22, Sunday
 
@@ -32,7 +32,7 @@ Learnt how to work with UTC and Unix timestamps.
 
 **Link(s) to work**: [Timestamp Microservice](https://robust-sapphire-sole.glitch.me/)
 
-**Article**:
+**Article(s)**:
 I also read an interesting article by [Jesica Chan](https://www.freecodecamp.org/news/author/thecodercoder/) on freecodecamp news and learnt about the Tomato Timer promodoro WebApp
 .
 1. [TomatoTimer](https://tomato-timer.com/)
@@ -48,4 +48,5 @@ I also read an interesting article by [Jesica Chan](https://www.freecodecamp.org
 1. [Request Header Parser Microservice](https://basalt-sulky-element.glitch.me)
 1. [File Metadata Microservice](https://fancy-jaw.glitch.me)
 
-**Article**:
+**Article(s)**:
+1. 
