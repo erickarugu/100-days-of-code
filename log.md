@@ -9,21 +9,32 @@ Created a URL Shortener Microservice using MongoDB and Node.js. Learnt how to pl
 
 **Link to work:** [URL Shortener Microservice App](https://knowing-silver-countess.glitch.me)
 
-### Day 0: March 21, Saturday
+**Article**
+Today I read an interesting article "Learn to Code From Home: The Coronavirus Quarantine Developer Skill Handbook
+" by Quincy Larson the founder of [freecodecamp](https://www.freecodecamp.org/) on how to take advantage of the freely available learning resources and level up your Dev Skills during this quarantine period. In the article, he shared a couple of these resources and I will be visiting them in the course of my journey.
+[Learn to Code From Home: The Coronavirus Quarantine Developer Skill Handbook](https://www.freecodecamp.org/news/coronavirus-academy/)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 1: March 22, Sunday
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Started and finished the Data Visualization Certification challenges on freecodecamp. I will do the projects next.
 
-**Link(s) to work**: [Calculator App](https://knowing-silver-countess.glitch.me)
+**Thoughts**: I enjoyed learning how to use the D3.js Javascript library. Finally, learnt how to create a pie chart and bar graph using JS! I have always been curious before today. Also started learning how to use AJAX to hadle APIs.
+
+**Link(s) to work**: [Freecodecamp Data Visualization](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/)
 
 
 ### Day 1: March 22, Sunday
 
-**Today's Progress**: 
+**Today's Progress**: Created a Timestamp Microservice that returns the passed timestamp in JSON format
 
-**Thoughts** 
+**Thoughts**: I had a hard time parsing the unix format and dealing with an empty string in the GET request. 
+Learnt how to work with UTC and Unix timestamps.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Timestamp Microservice](https://robust-sapphire-sole.glitch.me/)
+
+**Article**
+I also read an interesting article by [Jesica Chan] on freecodecamp news and learnt about the Tomato Timer promodoro WebApp
+.
+[TomatoTimer](https://tomato-timer.com/)
+[Staying productive in the age of social distancing](https://www.freecodecamp.org/news/staying-productive-in-the-age-of-social-distancing/)
