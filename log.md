@@ -37,3 +37,15 @@ I also read an interesting article by [Jesica Chan](https://www.freecodecamp.org
 .
 1. [TomatoTimer](https://tomato-timer.com/)
 1. [Staying productive in the age of social distancing](https://www.freecodecamp.org/news/staying-productive-in-the-age-of-social-distancing/)
+
+### Day 2: March 23, Monday
+
+**Today's Progress**: Created a Request Header Parser Microservice and a File Metadata Microservice - APIs and Microservices Prolects @freeCodeCamp
+
+**Thoughts**: I Learnt how to access contents of a GET API request. Learnt how to use the [Multer](https://www.npmjs.com/package/multer) node.js middleware for handling multipart/form-data used for uploading files. Played with the projects UI too. It was fun coding very late at night. I am only left with one project under APIs and Microservices Certification. I am super excited.
+
+**Link(s) to work**: 
+1. [Request Header Parser Microservice](https://robust-sapphire-sole.glitch.me)
+1. [File Metadata Microservice](https://fancy-jaw.glitch.me)
+
+**Article**:
