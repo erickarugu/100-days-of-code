@@ -30,11 +30,10 @@ Today I read an interesting article "Learn to Code From Home: The Coronavirus Qu
 **Thoughts**: I had a hard time parsing the unix format and dealing with an empty string in the GET request. 
 Learnt how to work with UTC and Unix timestamps.
 
-**Link(s) to work**
-1. [Timestamp Microservice](https://robust-sapphire-sole.glitch.me/)
+**Link(s) to work**: [Timestamp Microservice](https://robust-sapphire-sole.glitch.me/)
 
-**Article**
+**Article**:
 I also read an interesting article by [Jesica Chan] on freecodecamp news and learnt about the Tomato Timer promodoro WebApp
 .
-[TomatoTimer](https://tomato-timer.com/)
-[Staying productive in the age of social distancing](https://www.freecodecamp.org/news/staying-productive-in-the-age-of-social-distancing/)
+1. [TomatoTimer](https://tomato-timer.com/)
+1. [Staying productive in the age of social distancing](https://www.freecodecamp.org/news/staying-productive-in-the-age-of-social-distancing/)
