@@ -40,7 +40,7 @@ I also read an interesting article by [Jesica Chan](https://www.freecodecamp.org
 
 ### Day 2: March 23, Monday
 
-**Today's Progress**: Created a Request Header Parser Microservice and a File Metadata Microservice - APIs and Microservices Prolects @freeCodeCamp
+**Today's Progress**: Created a Request Header Parser Microservice and a File Metadata Microservice - APIs and Microservices Prolects [freeCodeCamp](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/)
 
 **Thoughts**: I Learnt how to access contents of a GET API request. Learnt how to use the [Multer](https://www.npmjs.com/package/multer) node.js middleware for handling multipart/form-data used for uploading files. Played with the projects UI too. It was fun coding very late at night. I am only left with one project under APIs and Microservices Certification. I am super excited.
 
