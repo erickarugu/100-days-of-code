@@ -49,4 +49,23 @@ I also read an interesting article by [Jesica Chan](https://www.freecodecamp.org
 1. [File Metadata Microservice](https://fancy-jaw.glitch.me)
 
 **Article(s)**:
-1. 
+Read "I Finished the Entire freeCodeCamp Curriculum in 1 Month (and Recorded Everything)" by Florin Pop. This guy is crazy and amazing too.
+1. [I Finished the Entire freeCodeCamp Curriculum in 1 Month (and Recorded Everything)](https://www.freecodecamp.org/news/i-completed-the-entire-freecodecamp-curriculum-in-a-month-while-recording-everything/)
+
+### Day 3: March 24, Tuesday
+
+**Today's Progress**:
+Finished working on the Appointment Booking App FrontEnd using Angular framework as per the tutorial.
+
+Went through the Angular documentation and created the 'Get Started App' - simple e-commerce sample app.
+
+**Link(s) to work**: 
+1. [Appointmnt Booking App](https://github.com/erickarugu32/Appointment-Booking-App)
+2. [Get Started Angular E-Commerce app](https://angular-9fxlul.stackblitz.io)
+
+Todays Highlights
+Learnt about [Ignite UI for Angular](https://www.infragistics.com/products/ignite-ui-angular/angular/)
+Discovered [Stackblitz](https://stack.blitzcom) online text editor
+
+**Article**
+1. [How it works - Event Emitter" by Gokulakrishman Kalaikovan](https://dev.to/gokulkrishh/how-it-works-event-emitter-41e6)
