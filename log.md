@@ -63,9 +63,9 @@ Went through the Angular documentation and created the 'Get Started App' - simpl
 1. [Appointmnt Booking App](https://github.com/erickarugu32/Appointment-Booking-App)
 2. [Get Started Angular E-Commerce app](https://angular-9fxlul.stackblitz.io)
 
-Todays Highlights
-Learnt about [Ignite UI for Angular](https://www.infragistics.com/products/ignite-ui-angular/angular/)
-Discovered [Stackblitz](https://stack.blitzcom) online text editor
+**Todays Highlights**:
+1. Learnt about [Ignite UI for Angular](https://www.infragistics.com/products/ignite-ui-angular/angular/)
+1. Discovered [Stackblitz](https://stack.blitzcom) online text editor
 
 **Article**
 1. [How it works - Event Emitter" by Gokulakrishman Kalaikovan](https://dev.to/gokulkrishh/how-it-works-event-emitter-41e6)
