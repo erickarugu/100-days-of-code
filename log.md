@@ -69,3 +69,21 @@ Went through the Angular documentation and created the 'Get Started App' - simpl
 
 **Article**
 1. [How it works - Event Emitter" by Gokulakrishman Kalaikovan](https://dev.to/gokulkrishh/how-it-works-event-emitter-41e6)
+
+### Day 4: March 25, Wednesday
+
+**Today's Progress**:
+Created a Binary Calculator and a Button Rotate using Javascript as part of the #10DaysOfJavascript challenge @HackerRank. This meant I had completed the 10 days challenge and earned a Gold Badge (five stars). Another badge in my bag  <^_^> 	:)
+
+**Thoughts**:
+Finally learnt and understood the CSS Flexbox concept [Css-Tricks](https://css-tricks.com/). I feel well equipped now! [Chris Coyer](https://css-tricks.com/author/chriscoyier/) has always been a consistent inspiration in my Web Development journey.
+I also stumbled upon Canvas concept [W3Schools](https://www.w3schools.com/graphics/canvas_intro.asp) and set up a clock project that I will continue to build on the way. 
+
+**Link(s) to work**: 
+1. [Buttons Rotate](https://524459.playcode.io)
+2. [Binary Calculator](https://524472.playcode.io)
+3. [Clock Canvas App](https://524914.playcode.io)
+ 
+
+**Article**
+1. ["A Complete Guide to Flexbox"](Link: https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
