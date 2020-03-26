@@ -86,4 +86,22 @@ I also stumbled upon Canvas concept [W3Schools](https://www.w3schools.com/graphi
  
 
 **Article**
-1. ["A Complete Guide to Flexbox"](Link: https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+1. [A Complete Guide to Flexbox](Link: https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+
+### Day 5: March 26, Thursday
+
+**Today's Progress**:
+Created an Exercise Tracker, last challenge @freeCodeCamp APIs and Microservices Certifcation. 
+
+**Thoughts**:
+Bugs are real!
+I will relook the APIs endpoints to pass the freeCodeCamp tests though the app is working as expected.
+
+**Link(s) to work**: 
+1. [Exercise Tracker App](https://exerciez.glitch.me/)
+ 
+
+**Article**
+Read MDN Web Docs - Javascript. "JavaScript — Dynamic client-side scripting"
+1. [JavaScript — Dynamic client-side scripting](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
