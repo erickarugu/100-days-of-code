@@ -105,3 +105,23 @@ I will relook the APIs endpoints to pass the freeCodeCamp tests though the app i
 **Article**
 Read MDN Web Docs - Javascript. "JavaScript — Dynamic client-side scripting"
 1. [JavaScript — Dynamic client-side scripting](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+
+
+### Day 6: March 27, Friday
+
+**Today's Objectives:**
+ - continue with Angular
+ - finish on Exercise tarcker
+**Today's Progress**:
+Went through some CSS flexbox concepts [freeCodeCamp](https://www.freecodecamp.org) and practiced. 
+Finally concluded the Exercise Tracker mii project and eraned the APIs and Microservices Certificate after a tussle. ^ _ ^  ' _  '  ;)
+Today I also came up with the whole #100DaysOfCode challenge objectives to guide me along the way. I am super excited.
+
+**Certificate**: [APIs and Microservices Certificate](https://www.freecodecamp.org/certification/erickarugu/apis-and-microservices)
+
+**Link(s) to Work**:
+1. [Exercise Tracker](https://exerciez.glitch.me)
+
+**Article**:
+"Want to Improve Your Coding Skills? Join the #7Days7Websites Coding Challenge" by Florin Pop @freeCodeCamp
+1. [https://www.freecodecamp.org/news/the-7days7websites-coding-challenge/](https://www.freecodecamp.org/news/the-7days7websites-coding-challenge/)
