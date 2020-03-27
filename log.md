@@ -121,7 +121,7 @@ Today I also came up with the whole #100DaysOfCode challenge objectives to guide
 **Certificate**: [APIs and Microservices Certificate](https://www.freecodecamp.org/certification/erickarugu/apis-and-microservices)
 
 **Link(s) to Work**:
-1. [Exercise Tracker](https://exerciez.glitch.me)
+1. [Exercise Tracker Glitch URL](https://exerciez.glitch.me)
 
 **Article**:
 "Want to Improve Your Coding Skills? Join the #7Days7Websites Coding Challenge" by Florin Pop @freeCodeCamp
