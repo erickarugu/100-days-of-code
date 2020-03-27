@@ -112,6 +112,7 @@ Read MDN Web Docs - Javascript. "JavaScript — Dynamic client-side scripting"
 **Today's Objectives:**
  - continue with Angular
  - finish on Exercise tarcker
+ 
 **Today's Progress**:
 Went through some CSS flexbox concepts [freeCodeCamp](https://www.freecodecamp.org) and practiced. 
 Finally concluded the Exercise Tracker mii project and eraned the APIs and Microservices Certificate after a tussle. ^ _ ^  ' _  '  ;)
