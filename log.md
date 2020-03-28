@@ -179,10 +179,12 @@ Man, today I came across very many articles/writings and most of them enlighted 
  - Day 8 project: Visualize Data with a Bar Chart
  - Look for angular mini project and set up
 
-**Today's progress: **
+**Today's progress:**
 
-project link: 
+1. project link: 
+
 **Highlights:**
 
+
 **Articles:**
-link 1: 
+1. link 1: 
