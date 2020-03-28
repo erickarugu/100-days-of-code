@@ -128,17 +128,17 @@ Today I also came up with the whole #100DaysOfCode challenge objectives to guide
 1. [https://www.freecodecamp.org/news/the-7days7websites-coding-challenge/](https://www.freecodecamp.org/news/the-7days7websites-coding-challenge/)
 
 
-### Day 7:March 28, Saturday
+### Day 7: March 28, Saturday
 
 **Today's progress**:
-Set up and started the [Microverse Pre-Course Work](https://support.microverse.org/en/articles/2791257-microverse-pre-course-work). It is basically a Web Development curicullum/training at the [Odin Project Platform](https://www.theodinproject.com/courses/web-development-101) and vowed to dedicate 10hours/week to the program. I will apply for the Pair Programming Practice sessions next.
+Set up and started the [Microverse Pre-Course Work](https://support.microverse.org/en/articles/2791257-microverse-pre-course-work). It is basically a Web Development curriculum/training at the [Odin Project Platform](https://www.theodinproject.com/courses/web-development-101) and vowed to dedicate 10hours/week to the program. I will apply for the Pair Programming Practice sessions next.
 
 **Link(s)**: [https://www.theodinproject.com/courses/web-development-101?ref=lnav](https://www.theodinproject.com/courses/web-development-101?ref=lnav)
 
 Revisited the Intermediate Javascript Algorithms challenges [freeCodeCamp](https://www.freecodecamp.org) to expound my knowledge-base(KB). I am close to earning the 3rd FreeCodeCamp certficate.
 
 **Articles/Resources**:
-Man, today I came across very many articles/writings and most of them enlighted me and triggered my brain to think different. I will just drop the links here. you can visist them anytime you find time to do so.
+Man, today I came across very many articles/writings and most of them enlighted me and triggered my brain to think differently. I will just drop the links here. you can visit them anytime you find time to do so.
 
 
 1. [http://web.archive.org/web/20160925155912/http://www.happybearsoftware.com/how-to-get-a-programmer-job.html](http://web.archive.org/web/20160925155912/http://www.happybearsoftware.com/how-to-get-a-programmer-job.html)
@@ -169,3 +169,20 @@ Man, today I came across very many articles/writings and most of them enlighted 
 
 14. [https://codinginflow.com/google-programming-questions](https://codinginflow.com/google-programming-questions)
 
+
+### Day 8: March 29, Sunday
+
+**Objectives:**
+ - Revisit and complete John's project
+ - Complete Odin Frontend project(Google landing page)
+ - FreeCodeCamp Intermediate challenges
+ - Day 8 project: Visualize Data with a Bar Chart
+ - Look for angular mini project and set up
+
+**Today's progress: **
+
+project link: 
+**Highlights:**
+
+**Articles:**
+link 1: 
