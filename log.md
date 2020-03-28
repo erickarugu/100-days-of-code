@@ -131,11 +131,11 @@ Today I also came up with the whole #100DaysOfCode challenge objectives to guide
 ### Day 7:March 28, Saturday
 
 **Today's progress**:
-Set up and started the Microverse Pre-Course Work. It is basically a Web Development curicullum/training at the Odin Project Platform and vowed to dedicate 10hours/week to the program. I will apply for the Pair Programming Practice sessions next.
+Set up and started the [Microverse Pre-Course Work](https://support.microverse.org/en/articles/2791257-microverse-pre-course-work). It is basically a Web Development curicullum/training at the [Odin Project Platform](https://www.theodinproject.com/courses/web-development-101) and vowed to dedicate 10hours/week to the program. I will apply for the Pair Programming Practice sessions next.
 
 **Link(s)**: [https://www.theodinproject.com/courses/web-development-101?ref=lnav](https://www.theodinproject.com/courses/web-development-101?ref=lnav)
 
-Revisited the Intermediate Javascript Algorithms challenges @freeCodeCamp to expound my knowledge-base(KB). I am close to earning the 3rd FreeCodeCamp certficate.
+Revisited the Intermediate Javascript Algorithms challenges [freeCodeCamp](https://www.freecodecamp.org) to expound my knowledge-base(KB). I am close to earning the 3rd FreeCodeCamp certficate.
 
 **Articles/Resources**:
 Man, today I came across very many articles/writings and most of them enlighted me and triggered my brain to think different. I will just drop the links here. you can visist them anytime you find time to do so.
