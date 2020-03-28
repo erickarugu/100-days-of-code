@@ -126,3 +126,46 @@ Today I also came up with the whole #100DaysOfCode challenge objectives to guide
 **Article**:
 "Want to Improve Your Coding Skills? Join the #7Days7Websites Coding Challenge" by Florin Pop @freeCodeCamp
 1. [https://www.freecodecamp.org/news/the-7days7websites-coding-challenge/](https://www.freecodecamp.org/news/the-7days7websites-coding-challenge/)
+
+
+### Day 7:March 28, Saturday
+
+**Today's progress**:
+Set up and started the Microverse Pre-Course Work. It is basically a Web Development curicullum/training at the Odin Project Platform and vowed to dedicate 10hours/week to the program. I will apply for the Pair Programming Practice sessions next.
+
+**Link(s)**: [https://www.theodinproject.com/courses/web-development-101?ref=lnav](https://www.theodinproject.com/courses/web-development-101?ref=lnav)
+
+Revisited the Intermediate Javascript Algorithms challenges @freeCodeCamp to expound my knowledge-base(KB). I am close to earning the 3rd FreeCodeCamp certficate.
+
+**Articles/Resources**:
+Man, today I came across very many articles/writings and most of them enlighted me and triggered my brain to think different. I will just drop the links here. you can visist them anytime you find time to do so.
+
+
+1. [http://web.archive.org/web/20160925155912/http://www.happybearsoftware.com/how-to-get-a-programmer-job.html](http://web.archive.org/web/20160925155912/http://www.happybearsoftware.com/how-to-get-a-programmer-job.html)
+
+2. [http://blog.udacity.com/2014/12/front-end-vs-back-end-vs-full-stack-web-developers.html]( http://blog.udacity.com/2014/12/front-end-vs-back-end-vs-full-stack-web-developers.html)
+
+3. [http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
+
+4. [http://newcodegirl.blogspot.co.uk/](http://newcodegirl.blogspot.co.uk/)
+
+5. [http://joshuakemp.blogspot.co.uk/2013/11/how-blacksmith-learned-to-code-and-9.html](http://joshuakemp.blogspot.co.uk/2013/11/how-blacksmith-learned-to-code-and-9.html)
+
+6. [https://www.reddit.com/r/learnprogramming/comments/34r807/im_32_years_old_and_just_started_my_first/?](https://www.reddit.com/r/learnprogramming/comments/34r807/im_32_years_old_and_just_started_my_first/?)
+
+7. [https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve)
+
+8. [https://www.ted.com/talks/angela_lee_duckworth_the_key_to_success_grit](https://www.ted.com/talks/angela_lee_duckworth_the_key_to_success_grit)
+
+9. [https://www.khanacademy.org/talks-and-interviews/conversations-with-sal/a/the-learning-myth-why-ill-never-tell-my-son-hes-smart](https://www.khanacademy.org/talks-and-interviews/conversations-with-sal/a/the-learning-myth-why-ill-never-tell-my-son-hes-smart)
+
+10. [https://markmanson.net/do-something](https://markmanson.net/do-something)
+
+11. [https://medium.freecodecamp.org/learning-to-code-when-it-gets-dark-e485edfb58fd#.yjh0fehje](https://medium.freecodecamp.org/learning-to-code-when-it-gets-dark-e485edfb58fd#.yjh0fehje)
+
+12. [https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
+
+13. [https://www.keybr.com/](https://www.keybr.com/)
+
+14. [https://codinginflow.com/google-programming-questions](https://codinginflow.com/google-programming-questions)
+
