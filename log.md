@@ -181,10 +181,15 @@ Man, today I came across very many articles/writings and most of them enlighted 
 
 **Today's progress:**
 
-1. project link: 
+Created an analog Clock using HTML Canvas.
+1. [Analog Clock](https://531060.playcode.io/)
 
-**Highlights:**
+
+Revised, completed and delivered a colleague's work.
+
+Set up "Visualize Data with a Bar Chart" - freeCodeCamp Data Visualization project. This mini-project uses the D3.js Javascript library.
+1. [Bar Chart - D3.js](https://codepen.io/ericko12/full/eYNxmEz)
 
 
-**Articles:**
-1. link 1: 
+**Article:**
+1. [https://www.freecodecamp.org/news/the-best-angular-examples/](https://www.freecodecamp.org/news/the-best-angular-examples/)
