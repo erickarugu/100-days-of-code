@@ -193,3 +193,15 @@ Set up "Visualize Data with a Bar Chart" - freeCodeCamp Data Visualization proje
 
 **Article:**
 1. [https://www.freecodecamp.org/news/the-best-angular-examples/](https://www.freecodecamp.org/news/the-best-angular-examples/)
+
+
+### Day 9: March 30, Monday
+
+**Objectives:**
+ - HackerRank 30 Day Challenge
+ - Odin Project
+ - FreeCodeCamp practice
+ - Angular
+
+**Today's Progress:**
+Completed the warm up Algorithms at Hackerank and earned my second star.
