@@ -205,3 +205,53 @@ Set up "Visualize Data with a Bar Chart" - freeCodeCamp Data Visualization proje
 
 **Today's Progress:**
 Completed the warm up Algorithms at Hackerank and earned my second star.
+
+
+### Day 10: March 31, Tuessday
+
+**Objectives:**
+ - Start working on an Angular Dashboard
+ - Hackerank 30 Day Challenge
+ - Mini Article
+
+**Today's Progress:**
+Started working on an Angular dashboard using Material CSS, Flexbox and HighCharts.
+1. [https://github.com/erickarugu32/Angular-Dashboard](https://github.com/erickarugu32/Angular-Dashboard)
+
+Wrote my first kamini Medium blog about COVID-19 dashboards.
+1. [https://medium.com/@erickariuki32/top-10-covid-19-dashboards-march-31-2020-7128e29354e0](https://medium.com/@erickariuki32/top-10-covid-19-dashboards-march-31-2020-7128e29354e0)
+
+**Highlights:**
+Discovered Bootstrap Table used to create amazing tables with myriad functionalities
+1. [https://bootstrap-table.com](https://bootstrap-table.com)
+
+**Articles:**
+I have been yearning to create a COVID-19 dashboard using Angular 8 and reading this article inspired me even more.
+"I've open-sourced a simple Coronavirus (COVID-19) dashboard (React + Chart.js + BootstrapTable)" by Oleksii Trekhleb
+
+1. [https://dev.to/trekhleb/i-ve-open-sourced-a-simple-coronavirus-covid-19-dashboard-react-chart-js-bootstraptable-4i49](https://dev.to/trekhleb/i-ve-open-sourced-a-simple-coronavirus-covid-19-dashboard-react-chart-js-bootstraptable-4i49)
+
+
+"16 front-end projects (with designs) to help improve your coding skills" by Matt Studdert
+2. [https://dev.to/frontendmentor/16-front-end-projects-with-designs-to-help-improve-your-coding-skills-5ajl](https://dev.to/frontendmentor/16-front-end-projects-with-designs-to-help-improve-your-coding-skills-5ajl)
+
+"Kaggle’s 5 remote-first tips for new WFHers" by Megan Risdal
+3. [https://dev.to/mrisdal/kaggle-s-5-remote-first-tips-for-new-wfhers-3a4g](https://dev.to/mrisdal/kaggle-s-5-remote-first-tips-for-new-wfhers-3a4g)
+
+
+### Day 11: April 1, Wednesday
+
+**Objectives:**
+ - Proceed with Angular dashboard
+ - Create an Angular Note Keeper mini App
+ - Hackerank 30 Day Challenge
+
+**Today's Progress:**
+Created a Note Keeper mini-App using Angular and Bulma. Learnt how to use Bulma CSS framework and practiced Sass. To implement back end tomorrow.
+Completed Hacker rank 30 Day Challenge Day 10 challenge.
+1. [https://github.com/erickarugu32/Notes-App-Angular](https://github.com/erickarugu32/Notes-App-Angular)
+
+**Article:**
+"Version 9.1 of Angular Now Available — TypeScript 3.8, faster builds, and more"
+
+1. [https://blog.angular.io/version-9-1-of-angular-now-available-typescript-3-8-faster-builds-and-more-eb292f989428](https://blog.angular.io/version-9-1-of-angular-now-available-typescript-3-8-faster-builds-and-more-eb292f989428)
