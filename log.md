@@ -255,3 +255,34 @@ Completed Hacker rank 30 Day Challenge Day 10 challenge.
 "Version 9.1 of Angular Now Available — TypeScript 3.8, faster builds, and more"
 
 1. [https://blog.angular.io/version-9-1-of-angular-now-available-typescript-3-8-faster-builds-and-more-eb292f989428](https://blog.angular.io/version-9-1-of-angular-now-available-typescript-3-8-faster-builds-and-more-eb292f989428)
+
+
+### Day 12: April 2, Thursday
+
+**Objectives:**
+
+ - Continue with Angular Notes mini app
+ - Hackerank 30 Day Challenge, Day 11-2D Arrays
+
+**Today's Progress:**
+
+Completed the [Hackerank 30 Day challenge](https://www.hackerrank.com/domains/tutorials/30-days-of-code), Day 11 - 2D Arrays. 
+Added/Finished the CRUD operations in the Angular Notes App.
+Technologies: [Bulma CSS](https://bulma.io/), [SCSS](https://sass-lang.com/), [Angular 8](https://angular.io/)
+Learnt how to build and deploy an Angular App on [Google Firebase](https://firebase.google.com).
+1. Project URL: [https://angular8-notes-app.web.app/](https://angular8-notes-app.web.app/)
+
+2. GitHub link: [https://github.com/erickarugu32/Notes-App-Angular](https://github.com/erickarugu32/Notes-App-Angular)
+
+**Highlights:**
+
+Today I successfully built an Angular mini-app for production and deployed it on Firebase.
+link: https://angular8-notes-app.web.app/
+
+**Articles:**
+
+"Deploying an Angular App to [Firebase]() Hosting" from [https://alligator.io](https://alligator.io)
+1. Link: [https://alligator.io/angular/deploying-angular-app-to-firebase/](https://alligator.io/angular/deploying-angular-app-to-firebase/)
+
+Top Website for Web Development articles
+1. Link: [https://alligator.io](https://alligator.io)
