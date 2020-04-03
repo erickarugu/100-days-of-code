@@ -318,14 +318,14 @@ Learnt in-depth Angular concepts thanks to Jon Eames and Deborah Kurata for thei
 
 Today I went through a couple of articles under Angular and CSS sections in the alligator site. These are the ones that really stood out for me:
 
-"Component Communication in Angular" by Hanish Totlani
-1. Link: [https://alligator.io/angular/component-communication/](https://alligator.io/angular/component-communication/)
+1. "Component Communication in Angular" by Hanish Totlani
+Link: [https://alligator.io/angular/component-communication/](https://alligator.io/angular/component-communication/)
 
-"Styling Scrollbars with CSS: The Modern Way to Style Scrollbars" by William Le
-2. Link: [https://alligator.io/css/css-scrollbars/](https://alligator.io/css/css-scrollbars/)
+2. "Styling Scrollbars with CSS: The Modern Way to Style Scrollbars" by William Le
+Link: [https://alligator.io/css/css-scrollbars/](https://alligator.io/css/css-scrollbars/)
 
-"How to Use the CSS: root Pseudo-Class Selector" by William Le
-3. Link: [https://alligator.io/css/root-pseudo-class/](https://alligator.io/css/root-pseudo-class/)
+3. "How to Use the CSS: root Pseudo-Class Selector" by William Le
+Link: [https://alligator.io/css/root-pseudo-class/](https://alligator.io/css/root-pseudo-class/)
 
-"JavaScript Algorithm: Grading Students" by Erica N
-4. Link: [https://medium.com/javascript-in-plain-english/javascript-algorithm-grading-students-210a89c5496f](https://medium.com/javascript-in-plain-english/javascript-algorithm-grading-students-210a89c5496f)
+4. "JavaScript Algorithm: Grading Students" by Erica N
+Link: [https://medium.com/javascript-in-plain-english/javascript-algorithm-grading-students-210a89c5496f](https://medium.com/javascript-in-plain-english/javascript-algorithm-grading-students-210a89c5496f)
