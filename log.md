@@ -286,3 +286,46 @@ link: https://angular8-notes-app.web.app/
 
 Top Website for Web Development articles
 1. Link: [https://alligator.io](https://alligator.io)
+
+
+### Day 13: April 3, Friday
+
+**Objectives:**
+
+ - Hackerank 30 Day Challenge, Day 12 Inheritance
+ - Angular course on Pluralsight
+
+
+**Today's Progress:**
+
+Hackerrank 30 Day Challenge - Day 12 [Class Inheritance Problem](https://www.hackerrank.com/challenges/30-inheritance/)
+
+Completed the >1hour "Angular: The Bigger Picture" by Joe Eames course on Pluralsight.
+
+Completed 35% of "Angular: Getting Started" >5hrs  code-along course by Deborah. Her explanation of the course content is something else. I didn't even realize I had sat down for over 3hrs without taking a break. She made me understand the building blocks of the Angular framework. This made me love it even more :) Eagerly waiting for tomorrow...
+
+a. Code-Along project URL: [https://github-ymlavq.stackblitz.io/](https://github-ymlavq.stackblitz.io/)
+b. Github repo link: [https://github.com/erickarugu32/github-ymlavq](https://github.com/erickarugu32/github-ymlavq)
+
+
+**Highlights:**
+
+Took advantage of the free access to Pluralsight expert-led learning videos.
+Learnt in-depth Angular concepts thanks to Jon Eames and Deborah Kurata for their amazing courses on Pluralsight.
+
+
+**Articles:**
+
+Today I went through a couple of articles under Angular and CSS sections in the alligator site. These are the ones that really stood out for me:
+
+"Component Communication in Angular" by Hanish Totlani
+a. Link: [https://alligator.io/angular/component-communication/](https://alligator.io/angular/component-communication/)
+
+"Styling Scrollbars with CSS: The Modern Way to Style Scrollbars" by William Le
+b. Link: [https://alligator.io/css/css-scrollbars/](https://alligator.io/css/css-scrollbars/)
+
+"How to Use the CSS: root Pseudo-Class Selector" by William Le
+c. Link: [https://alligator.io/css/root-pseudo-class/](https://alligator.io/css/root-pseudo-class/)
+
+"JavaScript Algorithm: Grading Students" by Erica N
+d. Link: [https://medium.com/javascript-in-plain-english/javascript-algorithm-grading-students-210a89c5496f](https://medium.com/javascript-in-plain-english/javascript-algorithm-grading-students-210a89c5496f)
