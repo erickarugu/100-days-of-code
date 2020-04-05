@@ -329,3 +329,62 @@ Link: [https://alligator.io/css/root-pseudo-class/](https://alligator.io/css/roo
 
 4. "JavaScript Algorithm: Grading Students" by Erica N
 Link: [https://medium.com/javascript-in-plain-english/javascript-algorithm-grading-students-210a89c5496f](https://medium.com/javascript-in-plain-english/javascript-algorithm-grading-students-210a89c5496f)
+
+
+### Day 14: April 4, Saturday
+
+**Objectives:**
+
+ - Hackerank 30 Day Challenge, Day 14 Abstract Class
+ - continue with "Angular: Getting Started" course on Pluralsight
+
+**Today's Progress:**
+
+I completed the Hackerrank 30 Day Challenge - Day 14 Abstract.
+Completed the "Angular: Getting Started" course by Deborah Kurata on Pluralsight.
+Learnt and understood in depth Angular concepts:
+ - Strong typing
+ - Life cycle hooks (OnInit, OnChanges, OnDestroy)
+ - Building Custom Pipes using the @Pipe decorator
+ - Building Nested Components and Passing Data to and from it
+ - Service and Dependency Injection
+ - Retrieving Data using Http ()Observables and Reactive Extensions
+
+1. Code-Along project url: [https://github-ymlavq.stackblitz.io/](https://github-ymlavq.stackblitz.io/)
+
+2. Github repo link: [https://github.com/erickarugu32/github-ymlavq](https://github.com/erickarugu32/github-ymlavq)
+
+**Highlights:**
+
+I am now comfortable solving the Hackerrank challenges without referring that much. I now feel confident enough to handle a fully functional Angular App. I also got the Moringa Campus Ambassador role - to receive the contract next week. It's somehow sth big considering the intense and long application/interview process but I did not feel excited at all.
+
+
+**Articles:**
+
+1. "How to get your first job as a self-taught developer" by Virginia Balseiro
+[https://www.freecodecamp.org/news/how-to-get-your-first-job-in-tech/](https://www.freecodecamp.org/news/how-to-get-your-first-job-in-tech/)
+
+2. "How to Build a Piano Keyboard Using Vanilla JavaScript" by Joe Liang
+[https://www.freecodecamp.org/news/javascript-piano-keyboard/](https://www.freecodecamp.org/news/javascript-piano-keyboard/)
+
+3. "How to build a PWA from scratch with HTML, CSS, and JavaScript"by Ibrahima Ndaw
+[https://www.freecodecamp.org/news/build-a-pwa-from-scratch-with-html-css-and-javascript/](https://www.freecodecamp.org/news/build-a-pwa-from-scratch-with-html-css-and-javascript/)
+
+4. This developer's story was the best thing I read today. Long but captivating and really worth the time!
+"How I Won my First Ever Hackathon – 2 Wild Days of Research, Design, and Coding" by Moshe Siegel
+[https://www.freecodecamp.org/news/how-i-won-the-hackathon](ttps://www.freecodecamp.org/news/how-i-won-the-hackathon)
+
+
+### Day 15: April 5, Sunday
+
+**Objectives:**
+
+ - Hackerank 30 Day Challenge, Day 14 Abstract Class
+ - Continue with "Angular: Getting Started" by Deborah Kurata course on Pluralsight
+ - Create a Twitter bot using Node.js and Twit library to retweet and like given hashtags at set time intervals. Deploy it on Heroku.
+
+**Today's Progress:**
+
+**Highlights:**
+
+**Articles:**
