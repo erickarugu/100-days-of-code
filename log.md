@@ -385,6 +385,28 @@ I am now comfortable solving the Hackerrank challenges without referring that mu
 
 **Today's Progress:**
 
+Completed the Hackerrank 30 Day challenge - 2D Arrays
+Completed the "Angular: Getting Started" course. Understood various Angular concepts:
+	- Navigation and routing (configuring routes)
+	- Angular modules
+	- Building Test and Deploying with the CLI
+
+Twitter Bot - Hit a set back with Twitter Developer account application. I will continue trying though.
+
+1. Stackblitz project link: [https://github-ymlavq.stackblitz.io](https://github-ymlavq.stackblitz.io)
+2. GitHub repo: [https://github.com/erickarugu32/github-ymlavq](https://github.com/erickarugu32/github-ymlavq)
+
 **Highlights:**
 
+Understanding angular concepts.
+
 **Articles:**
+
+1. “8 Timeless Skills to Learn Now in Under 8 Hours to Change your Life Forever” @danny_forest [https://link.medium.com/mWoVsBVeq5](https://link.medium.com/mWoVsBVeq5)
+
+2. "Create A REST API With JSON Server" by Sebastian Eschweiler 
+[https://medium.com/codingthesmartway-com-blog/create-a-rest-api-with-json-server-36da8680136d](https://medium.com/codingthesmartway-com-blog/create-a-rest-api-with-json-server-36da8680136d
+)
+
+3. "Simplify your JavaScript - Use .map(), .reduce(), and .filter()" by Etienne Talbot
+[https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d](https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d)
