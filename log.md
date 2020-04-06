@@ -410,3 +410,31 @@ Understanding angular concepts.
 
 3. "Simplify your JavaScript - Use .map(), .reduce(), and .filter()" by Etienne Talbot
 [https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d](https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d)
+
+### Day 16: April 6, Monday
+
+**Objectives:**
+
+ - Hackerank 30 Day Challenge, Day 16 Abstract Class
+ - Complete Angular Form course by mark Zamoyta on pluralsight
+
+**Today's Progress:**
+
+Completed the hackerrank 30 Day challenge - Day 15 Linked List
+link; https://www.hackerrank.com/challenges/30-linked-list/problem
+
+Completed the Angular Form course on Pluralsight. Learnt and understood angular forms concepts: 
+	- Reactive forms vs template driven forms
+	- Form validation
+ 	- Data Binding
+ 	 - Posting data using HttpClient
+	- 3rd party controls to enhance form controls
+
+GitHub link: [https://github.com/erickarugu32/ps-demo](https://github.com/erickarugu32/ps-demo)
+
+**Articles:**
+
+1. I noticed my Vs Code color theme sucks, went searching and found this read.
+"50 VS Code themes for 2020" by GEoff Steens
+
+Link: [https://dev.to/thegeoffstevens/50-vs-code-themes-for-2020-45cc](https://dev.to/thegeoffstevens/50-vs-code-themes-for-2020-45cc)
