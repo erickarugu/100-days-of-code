@@ -438,3 +438,21 @@ GitHub link: [https://github.com/erickarugu32/ps-demo](https://github.com/ericka
 "50 VS Code themes for 2020" by GEoff Steens
 
 Link: [https://dev.to/thegeoffstevens/50-vs-code-themes-for-2020-45cc](https://dev.to/thegeoffstevens/50-vs-code-themes-for-2020-45cc)
+
+
+### Day 17: April 7, Tuesday
+
+**Objectives:**
+
+ - Hackerank 30 Day Challenge, Day 16
+ - Covid-19 Dashboard
+
+**Todays Progress:**
+
+I Started working on Covid-19 dashboard using Angular 8, Bootstrap-4, and Hichcharts. I Createed the UI, Data cards and Table components.
+
+Completed the Hackerrank 30 day day 16 challenge - Exceptions -Trsiing to INteger
+
+1. GitHub: [https://github.com/erickarugu32/covid-19-dashboard](https://github.com/erickarugu32/covid-19-dashboard)
+
+2. [Hackerrank: https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem)
