@@ -456,3 +456,29 @@ Completed the Hackerrank 30 day day 16 challenge - Exceptions -Trsiing to INtege
 1. GitHub: [https://github.com/erickarugu32/covid-19-dashboard](https://github.com/erickarugu32/covid-19-dashboard)
 
 2. [Hackerrank: https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer/problem)
+
+
+### Day 18: April 8, Wednesday
+
+**Objectives:**
+
+ - Hackerank 30 Day Challenge, Day 17 More Exceptions
+ - continue Covid-19 Dashboard
+
+**Progress:**
+
+I went through "javascript Sntax and Operators" course by Paul D. Sheriff on Pluralsight and got answers around Javascript Objects' question that have been in my mind for quite some time.
+
+I created a One-city(Nyeri) weather app ultilizing JSON and AJAX and getting data from OpenWeatherData API. I hosted the not complete Mini Web-App on Github pages.
+
+1.link: [https://erickarugu32.github.io/Weather-App/](https://erickarugu32.github.io/Weather-App/)
+
+**Highlights:**
+
+I finally understood the Javascript "this" keyword thanks Paul D. Sheriff on Pluralsight.
+
+**Articles:**
+
+Mmm I found this article and it was amazing despite the writer claiming it was her first one. "#100DaysOfVanillaJS: What is JavaScript, Primitive Data Types & Let, Var and Const" by Tae'lur Alexis on DEV
+
+1. [link: https://dev.to/taeluralexis/100daysofvanillajs-what-is-javascript-primitive-data-types-let-var-and-const-4040](https://dev.to/taeluralexis/100daysofvanillajs-what-is-javascript-primitive-data-types-let-var-and-const-4040)
