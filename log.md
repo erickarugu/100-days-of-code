@@ -482,3 +482,31 @@ I finally understood the Javascript "this" keyword thanks Paul D. Sheriff on Plu
 Mmm I found this article and it was amazing despite the writer claiming it was her first one. "#100DaysOfVanillaJS: What is JavaScript, Primitive Data Types & Let, Var and Const" by Tae'lur Alexis on DEV
 
 1. [link: https://dev.to/taeluralexis/100daysofvanillajs-what-is-javascript-primitive-data-types-let-var-and-const-4040](https://dev.to/taeluralexis/100daysofvanillajs-what-is-javascript-primitive-data-types-let-var-and-const-4040)
+
+
+### Day 19: April 9, Thursday
+
+**Objectives:**
+
+ - Hackerank 30 Day Challenge, Day 18 Queues and Stacks
+ - Start working on a WebApp with colleagues
+
+**Todays' Progress:**
+
+I started working on a promising private project with some amazing colleagues.
+Looked into registration and authentication concepts in Angular 8.
+Followed the tutorial from this page - 
+"Angular 7 Tutorial Part 4 - Login Form, Authentication Service & Route Guard" by Jason Watmore
+
+1. link: [https://jasonwatmore.com/](https://jasonwatmore.com/)
+
+**Articles:**
+
+1. "Acing the JavaScript Interview: top questions explained " by Amanda Fawcett
+
+link: [https://dev.to/educative/acing-the-javascript-interview-top-questions-explained-59b7](https://dev.to/educative/acing-the-javascript-interview-top-questions-explained-59b7)
+
+2. Coding Interview: [https://www.codinginterview.com/](https://www.codinginterview.com/
+)
+
+https://www.educative.io/courses/javascript-interview-handbook
