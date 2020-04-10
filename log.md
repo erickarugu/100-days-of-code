@@ -510,3 +510,26 @@ link: [https://dev.to/educative/acing-the-javascript-interview-top-questions-exp
 )
 
 https://www.educative.io/courses/javascript-interview-handbook
+
+
+### Day 20: April 10, Friday
+
+**Objectives:**
+
+ - HackerRank Day 19 Challenge -Interacting with Interfaces
+ - Next projects preparation
+ - Continue with Javascript Syntax and Operators cours on Pluralsight
+
+**Todays Progress:**
+
+Completed the HackerRank problem.
+
+I went through must have developer tools in preparation for the next project. I did a design refresher using css to create stunning diagonal layouts.
+
+**Articles:**
+
+1. "CSS Foldable Display Polyfill " by Chris on CSS_TRICKS
+link: [https://css-tricks.com/css-foldable-display-polyfill/](https://css-tricks.com/css-foldable-display-polyfill/)
+
+2. "Create Diagonal Layouts Like It's 2020" by Nils Binder.
+link: [https://9elements.com/blog/pure-css-diagonal-layouts/](https://9elements.com/blog/pure-css-diagonal-layouts/)
