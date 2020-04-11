@@ -533,3 +533,34 @@ link: [https://css-tricks.com/css-foldable-display-polyfill/](https://css-tricks
 
 2. "Create Diagonal Layouts Like It's 2020" by Nils Binder.
 link: [https://9elements.com/blog/pure-css-diagonal-layouts/](https://9elements.com/blog/pure-css-diagonal-layouts/)
+
+
+
+### Day 21: April 11, Saturday
+
+**Objectives:**
+
+ - Hackerank 30 Day Challenge, Day 20 - Sorting(Bubble Sort)
+ - Practice CSS flex concepts
+ - Create a Sunset Tracking App - Weather API
+ - Complete "JavaScript Syntax and Operators" course on Pluralsight
+ - Write a mini article
+
+**Today's Progress:**
+
+Learned about the spread operator in Javascript including how, when and where to apply it finishing the "Javascript Syntax and Operators" course by Paul D. Sherrif on [Pluralsight](https://www.pluralsight.com/)
+
+Completed [Hackerrank](https://hackerrank.com) Day 20 - Sorting challenge.
+
+Practiced CSS Flexbox concept thanks to Gary Simon for his course "CSS Flexbox Fundamentals" on Pluralsight. Designed the [TomatoTimer promodoro](https://tomato-timer.com) UI using the CSS flex concept. (responsive UI design output attached. Created in CSS and HTML only)
+
+Official tomato timer promodoro: [https://tomato-timer.com](https://tomato-timer.com)
+
+**Articles:**
+
+Call(), Apply() and Bind() functions.
+1. "Javascript Function Methods: Call vs Apply vs Bind" by Jonathan Hawley-Peters
+link: [https://medium.com/@jhawleypeters/javascript-call-vs-apply-vs-bind-61447bc5e989](https://medium.com/@jhawleypeters/javascript-call-vs-apply-vs-bind-61447bc5e989)
+
+2. "How To Swap Two Values Without Temporary Variables Using JavaScript"
+link: [https://medium.com/better-programming/how-swap-two-values-without-temporary-variables-using-javascript-8bb28f96b5f6](https://medium.com/better-programming/how-swap-two-values-without-temporary-variables-using-javascript-8bb28f96b5f6)
