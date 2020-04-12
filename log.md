@@ -564,3 +564,30 @@ link: [https://medium.com/@jhawleypeters/javascript-call-vs-apply-vs-bind-61447b
 
 2. "How To Swap Two Values Without Temporary Variables Using JavaScript"
 link: [https://medium.com/better-programming/how-swap-two-values-without-temporary-variables-using-javascript-8bb28f96b5f6](https://medium.com/better-programming/how-swap-two-values-without-temporary-variables-using-javascript-8bb28f96b5f6)
+
+
+### Day 22: April 12, Sunday
+
+Objectives:
+- Hackerrank Challenge Day 21 - Generics
+- Finish working on the weather app
+- Begin #7Days7Websites Challenge
+
+**Todays' Progress**
+
+Completed [Hackerrank](https://hackerrank.com) Day 21 Challenge - Generics.
+
+I finished working on the mini Weather App by adding the City search functionality. Enter any city name to see current weather conditions and three days forecast.
+
+Practiced the CSS flexbox concept by tackling two design challenges at [@frontendmentor](https://frontendmentor.io): a landing page, and a single-price grid component using pure CSS. No framework.
+3 Designs in one day! There is no better way to kick off  the 7Days7Websites challenge
+
+1. link: [https://erickarugu32.github.io/Weather-App/](https://erickarugu32.github.io/Weather-App/)
+
+**Articles:**
+
+1. "Thinking in Behaviors, Not Screen Sizes" by Robin Rendle on CSS-Tricks
+link: [https://css-tricks.com/thinking-in-behaviors-not-screen-sizes/](https://css-tricks.com/thinking-in-behaviors-not-screen-sizes/)
+
+2. "Tips for Writing Animation Code Efficiently" by Zach Saucier on CSS-Tricks
+link: [https://css-tricks.com/tips-for-writing-animation-code-efficiently/](https://css-tricks.com/tips-for-writing-animation-code-efficiently/)
