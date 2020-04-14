@@ -583,6 +583,9 @@ Practiced the CSS flexbox concept by tackling two design challenges at [@fronten
 3 Designs in one day! There is no better way to kick off  the 7Days7Websites challenge
 
 1. link: [https://erickarugu32.github.io/Weather-App/](https://erickarugu32.github.io/Weather-App/)
+#7Days7Websites
+2. link 1: [https://single-price-grid-component-omega.now.sh](https://single-price-grid-component-omega.now.sh)
+3. link 2: [https://huddle-landing-page-git-master.erickarugu.now.sh](https://huddle-landing-page-git-master.erickarugu.now.sh)
 
 **Articles:**
 
@@ -591,3 +594,67 @@ link: [https://css-tricks.com/thinking-in-behaviors-not-screen-sizes/](https://c
 
 2. "Tips for Writing Animation Code Efficiently" by Zach Saucier on CSS-Tricks
 link: [https://css-tricks.com/tips-for-writing-animation-code-efficiently/](https://css-tricks.com/tips-for-writing-animation-code-efficiently/)
+
+
+### Day 23: April 13, Monday
+
+**Objectives:**
+
+- Hackerrank day 22
+- CSS Flexbox and Bootstrap 4 course on Pluralsight
+-  #7Days7Websites Challenge - Day 2
+
+**Todays' Progress:**
+
+Completed Hackerrank Day 22 Challenge -Binary Search Trees. 
+Practiced working with Stacks and Queues.
+Learnt how to implement Google Sign-In (OAuth) in an Angular App.
+
+**Articles:**
+
+1. "How to build an Angular 8 app from scratch in 11 easy steps" by Ahmed Bouchefra
+link: [https://www.freecodecamp.org/news/angular-8-tutorial-in-easy-steps/](https://www.freecodecamp.org/news/angular-8-tutorial-in-easy-steps/)
+
+2. "Implement Google Sign-In(OAuth) in your Angular App in under 15 minutes " by Siddharth Ajmera
+link: [https://dev.to/angular/implement-google-sign-in-oauth-in-your-angular-app-in-under-15-minutes-1ebo](https://dev.to/angular/implement-google-sign-in-oauth-in-your-angular-app-in-under-15-minutes-1ebo)
+
+
+### Day 24: April 14, Tuesday
+
+**Objectives:**
+
+- Hackerrank Day 22 & 23
+- Did 2nd #7Days7Websites Challenge design
+- Continue with Angular project (login,sign in and authentication functionalities)
+
+**Todays' Progress:**
+
+Completed Day 22 and 23 [Hackerank](https://hackerrank.com) Challenges- BST and BST Level-Order Traversal.
+Practiced Angular CLI commands for effective Angular App development from "Angular CLI" course by John Papa on [Pluralsight](https://app.pluralsight.com).
+Designed a pricing component with a toggle button for my 2nd #7Days7Websites Challenge from [@frontendmentor](https://frontendmentor.io)
+
+1. link: [https://pricing-component-toggle.now.sh](https://pricing-component-toggle.now.sh)
+
+**Articles:**
+
+1. "How to Handle Errors in Angular Reactive Forms With 3 Lines of Code" by Klement Omeri
+link: [https://dev.to/klementomeri/how-to-handle-errors-in-angular-reactive-forms-with-3-lines-of-code-3nan](https://dev.to/klementomeri/how-to-handle-errors-in-angular-reactive-forms-with-3-lines-of-code-3nan)
+
+2. "How I'm Learning to Code and How You Can Too" by Ceora Ford
+link: [https://dev.to/ceeoreo/how-i-m-learning-to-code-and-how-you-can-too-1epb](https://dev.to/ceeoreo/how-i-m-learning-to-code-and-how-you-can-too-1epb)
+
+3. "Responsive Media Designs: Setting CSS Breakpoints" 
+link: [https://www.bitdegree.org/learn/responsive-media](https://www.bitdegree.org/learn/responsive-media)
+
+
+### Day 25: April 15, Wednesday
+
+**Objectives:**
+
+- Hackerrank Day 24
+- #7Days7Websites Challenge Design
+- Continue with Angular project (browse jobs page, registration logic, header/navbar)
+
+**Todays' Progress:**
+1. link: 
+**Articles:**
