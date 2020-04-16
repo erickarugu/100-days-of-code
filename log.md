@@ -656,5 +656,51 @@ link: [https://www.bitdegree.org/learn/responsive-media](https://www.bitdegree.o
 - Continue with Angular project (browse jobs page, registration logic, header/navbar)
 
 **Todays' Progress:**
-1. link: 
+
+Completed Hackerrank day 24 challenge.
+I designed a digital clock with plans of making it a useful full project.
+I practiced recursive functions in Javascript.
+ - codepen: [https://codepen.io/ericko12/pen/QWLvyEq](https://codepen.io/ericko12/pen/QWLvyEq)
+ 
+**Articles:**
+
+"How I went from stay-at-home-mum to landing my first web developer job" by Phoebe Voong-Fadel
+1. link: (https://www.freecodecamp.org/news/how-i-went-from-stay-at-home-mum-to-landing-my-first-web-developer-job/)[https://www.freecodecamp.org/news/how-i-went-from-stay-at-home-mum-to-landing-my-first-web-developer-job/]
+
+
+
+### Day 26: April 16, Thursday
+
+**Objectives:**
+
+- Hackerrank Day 25 - Running Time Complexity
+-  #7Days7Websites Challenge design
+- Continue with Angular project
+
+**Todays' Progress:**
+
+I completed Hackerrank day 25 challenge - Running Time and Complexity (4 more days to go)
+Practiced functional programming challenges at freeCodeCamp(50% done)
+I designed a simple intro component with a sign-up form - challenge from [frontendmentor](https://frontendmentor.io)
+
+link: [https://github.com/erickarugu32/intro-sign-up](https://github.com/erickarugu32/intro-sign-up)
+link: [https://intro-sign-up.now.sh/](https://intro-sign-up.now.sh/)
+
+
+**Articles:**
+
+1. "Ride Down Into JavaScript Dependency Hell" by Nikola Duza
+link: [https://dev.to/appsignal/ride-down-into-javascript-dependency-hell-39b0](https://dev.to/appsignal/ride-down-into-javascript-dependency-hell-39b0)
+
+
+### Day 27: April 17, Friday
+
+**Objectives:**
+- Hackerrank Day 26 - Nested Logic
+-  #7Days7Websites Challenge design
+- Continue with Angular project
+- Odin Frontend project
+
+**Todays' Progress:**
+
 **Articles:**
