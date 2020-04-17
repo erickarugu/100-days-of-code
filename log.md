@@ -703,4 +703,15 @@ link: [https://dev.to/appsignal/ride-down-into-javascript-dependency-hell-39b0](
 
 **Todays' Progress:**
 
+I completed the [@hackerrank day 25 challenge - Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic/problem?utm_campaign=30_days_of_code_continuous&utm_medium=email&utm_source=daily_reminder).
+
+Worked on a simple project to show the distribution of #Covid19 cases by counties here in Kenya making use of [@LeafletJS](https://leafletjs.com) library
+NB: =>  { data !accurate } => no API available so far.
+
+1. link: [https://kenya-covid-19.now.sh](https://kenya-covid-19.now.sh)
+2. repo: [https://github.com/erickarugu32/Kenya-Covid-19-Data](https://github.com/erickarugu32/Kenya-Covid-19-Data)
+
 **Articles:**
+
+1. "Examples of Map, Filter and Reduce in JavaScript" by Tania Rascia on her amazing website
+link: [https://www.taniarascia.com/real-world-examples-of-map-filter-and-reduce-in-javascript/](https://www.taniarascia.com/real-world-examples-of-map-filter-and-reduce-in-javascript/)
