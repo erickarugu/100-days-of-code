@@ -715,3 +715,32 @@ NB: =>  { data !accurate } => no API available so far.
 
 1. "Examples of Map, Filter and Reduce in JavaScript" by Tania Rascia on her amazing website
 link: [https://www.taniarascia.com/real-world-examples-of-map-filter-and-reduce-in-javascript/](https://www.taniarascia.com/real-world-examples-of-map-filter-and-reduce-in-javascript/)
+
+
+### Day 28: April 18, Friday
+
+**Objectives:**
+
+- Hackerrank Day 26
+-  #7Days7Websites Challenge design
+- Continue with Angular project
+ - Javascript (Functions and Classes)
+
+**Todays' Progress:**
+
+Completed "JavaScript and AJAX: Integration Techniques" course on linkedIn.
+Continued with Javascript special functions(filter(), map(), sort(), reduce() etc..)
+Designed, developed  and completed a one page Corona Virus awareness project:
+
+1. live link: [https://covid-data-xi.now.sh](https://covid-data-xi.now.sh)
+2. repo: [https://github.com/erickarugu32/Covid-Data](https://github.com/erickarugu32/Covid-Data)
+3. github pages: [https://erickarugu32.github.io/Covid-Data/](https://erickarugu32.github.io/Covid-Data/)
+
+**Articles:**
+
+1. "What is Computer Programming? Defining Software Development." by Phoebe Voong-Fadel
+link: [https://www.freecodecamp.org/news/what-is-computer-programming-defining-software-development/](https://www.freecodecamp.org/news/what-is-computer-programming-defining-software-development/)
+
+2. "https://www.freecodecamp.org/news/set-future-you-up-for-success-with-good-coding-habits/" by Colby Fayok
+link: [https://www.freecodecamp.org/news/set-future-you-up-for-success-with-good-coding-habits/](https://www.freecodecamp.org/news/set-future-you-up-for-success-with-good-coding-habits/)
+
