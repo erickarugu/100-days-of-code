@@ -717,7 +717,7 @@ NB: =>  { data !accurate } => no API available so far.
 link: [https://www.taniarascia.com/real-world-examples-of-map-filter-and-reduce-in-javascript/](https://www.taniarascia.com/real-world-examples-of-map-filter-and-reduce-in-javascript/)
 
 
-### Day 28: April 18, Friday
+### Day 28: April 18, Saturday
 
 **Objectives:**
 
@@ -744,3 +744,110 @@ link: [https://www.freecodecamp.org/news/what-is-computer-programming-defining-s
 2. "https://www.freecodecamp.org/news/set-future-you-up-for-success-with-good-coding-habits/" by Colby Fayok
 link: [https://www.freecodecamp.org/news/set-future-you-up-for-success-with-good-coding-habits/](https://www.freecodecamp.org/news/set-future-you-up-for-success-with-good-coding-habits/)
 
+
+### Day 29: April 19, Sunday
+**Objectives:**
+
+- Hackerrank Day 27
+-  #7Days7Websites Challenge design
+ - JavaScript (Objects and Constructors)
+
+**Today's Progress:**
+
+I completed Hackerrank day 26 and 27 Challenges. 
+I practiced working with XHR to make http requests and dynamically update web pages using the jQuery plugin. 
+Learnt how to work with bootstrap 4 tables [https://bootstrap-table.com](https://bootstrap-table.com)
+
+**Articles:**
+
+1. "Angular pages with dynamic layouts" by Michael Lazarski => DEV
+
+
+### Day 30: April 20, Monday
+
+Read an article about the new Angular 9 features by Andres Gallo. I will put the knowledge to work as soon a kplc decide to behave. 
+Link: [https://www.morioh.com](https://www.morioh.com)
+
+
+### Day 31: April 21, Tuesday
+**Objectives:**
+
+- Hackerrank remaining challenges
+-  #7Days7Websites Challenge design
+- Continue with Angular project
+ - Javascript (Advanced functions)
+
+**Todays' Progress:**
+
+Completed 15% Angular Fundamentals course by Jim Cook and Jea Aames on Pluralsight learning and practicing how to set up an angular application on any platform.
+1. link: [https://github.com/erickarugu32/angular-events-app](https://github.com/erickarugu32/angular-events-app)
+
+**Articles:**
+
+1. "How I Went from Sales to Front End Developer in 16 Months" by Braedon Gough => FreeCodeCamp
+2. "Want to Know How to Get a Remote Job? I Asked 30 Remote Companies - This is What They Said" by Rauno Metsa => FreeCodeCamp
+
+Today, I also stumbled into(online though) this remote solo developer behind remotehub.io. This is his side project as he continues to work for a remote company from home. His novel idea of providing a platform where remote developers can connect with companies hiring remotely is slowly starting to pay off.
+
+3. "Dark theme for (almost) everything" by Thiago Braga on DEV
+
+
+### Day 32: April 22, Wednesday
+**Objectives:**
+
+- Continue with Angular project
+- Angular CLI tools
+ - Javascript (Advanced functions)
+
+**Todays' Progress:**
+
+Completed 30% Completed 15% Angular Fundamentals course by Jim Cook and Jea Aames on Pluralsight.
+Completed "JavaScript Variables and Types" JS intermediate course by Barry Luijbregts on pluralsight. Practiced writing clean and maintanable code by fully utlizing what JS variables and Data types has to offer.
+Started working on  a full angular side project to help cement all the angular fundamentals I have learnt so far.
+
+1. repo: [https://github.com/erickarugu32/angular-events-app](https://github.com/erickarugu32/angular-events-app)
+
+**Articles:**
+1. "Angular 9 for Beginners — How to install your first App with Angular CLI?" by Cem Eygi on freeCodeCamp
+
+2. "How to Make a Website SEO-Friendly and Keep it That Way" by Adam Henson on freeCodeCamp
+
+
+### Day 33: April 25, Thursday
+**Objectives:**
+
+- Angular Fundamentals course
+- Working with Javascript Modules
+
+**Todays' Progress:**
+
+Completed the "Working with Javascript Modules" Javascript course by Jonathan Mills on pluralsight. Learnt how to create and export modules using different conventions(named, default and aggregating). Leanrt how to enable, import and use imported modules.
+
+**Articles:**
+
+1. "Permutation and Combination: The Difference explained with formula example" by Alexander Arobalidze on freeCodeCamp
+2. "Dear Developers: Please Share your Story. We Could All Learn from Each Other's Coding Journeys." by Braedon Gough on freeCodeCamp
+3. "Backend Software Architecture Checklist: How to Build a Product from Scratch" by Sajal Sharma
+
+
+### Day 34: April 24, Friday
+
+**Objectives:**
+
+- Angular Fundamentals course
+- JS Objects and Prototypes, Error handling and Runtime => javascripttutorial.net
+ - Build a Trivia Quiz App with HTML, CSS, and Javascript 
+
+**Todays' Progress:**
+
+Completed the "Javascript: Functions" course by Prateek Parekh on Pluralsight. I learned how to effectively use the call(), apply() and bind() methods and construction of rest and spread parameters.
+Built a Quiz App with HTML, CSS, and Javascript following a course by James Q Quick on Udemy. I learned how to employ very many JS concepts I have garnered along the way(map, filter, sort, fetch, DOM manipulation, JSON)
+
+1. Repo: [https://github.com/erickarugu32/Quiz-App](https://github.com/erickarugu32/Quiz-App)
+2. live: [https://trivia-quiz-app.now.sh](https://trivia-quiz-app.now.sh)
+
+**Articles:**
+
+1. "Let’s code a dribble design with Vue.js & Tailwindcss (Working demo) — Part 1 of 2" by Fayaz Ahmed on Dev
+
+1. "The Framework for Perfectionists With Deadlines" by Velda Kiara on Dev
