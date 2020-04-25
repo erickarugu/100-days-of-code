@@ -851,3 +851,25 @@ Built a Quiz App with HTML, CSS, and Javascript following a course by James Q Qu
 1. "Let’s code a dribble design with Vue.js & Tailwindcss (Working demo) — Part 1 of 2" by Fayaz Ahmed on Dev
 
 1. "The Framework for Perfectionists With Deadlines" by Velda Kiara on Dev
+
+
+### Day 35: April 25 Saturday
+
+**Objectives:**
+
+- Angular Reusable Services, Routing and Navigating Pages
+- JavaScript Classes, Prototypes
+
+**Todays' Progress:**
+
+Today I finally completed the Functional Programming exercises at freeCodeCamp under [Javascript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/) after postponing since last year.
+Continued with Angular Fundamentals course on [PluralSight](https://app.pluralsight.com) and the events app. Dived deep into Angular Template Syntax, Creating Angular services and adding the routing functionality.
+Learnt about [toastr js library](https://github.com/CodeSeven/toastr) and how to use it as a 3rd party service in an Angular app.
+
+repo: [https://github.com/erickarugu32/angular-events-app](https://github.com/erickarugu32/angular-events-app)
+
+**Articles:**
+
+"Don’t use for loop for JavaScript Arrays" by Kushal Sharma on DEV
+
+"Creating a JavaScript Function to Calculate Whether It's a Leap Year" by Nick Scialli <= A very short and sweet article. Left me wondering whaaat?
