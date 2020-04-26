@@ -873,3 +873,22 @@ repo: [https://github.com/erickarugu32/angular-events-app](https://github.com/er
 "Don’t use for loop for JavaScript Arrays" by Kushal Sharma on DEV
 
 "Creating a JavaScript Function to Calculate Whether It's a Leap Year" by Nick Scialli <= A very short and sweet article. Left me wondering whaaat?
+
+### Day 36: April 26 Sunday
+
+**Objectives:**
+
+- Angular Routing and Navigating Pages
+- AJAX and PHP Scripts
+
+**Todays' Progress:**
+
+Today I went through the process of connecting a JS client-side with a PHP script backend with the AJAX technology/technique using the XHR Web API and MySQL as the preferred database. I finally learned how PHP ad JavaScript can coexist on the same project.
+I also played with the Bulma CSS framework and honestly, I still don't know how I feel about it.
+
+**Articles:**
+
+"If you use fetch() to make Backend API calls, you need to read this" by Swapnil Devesh on DEV
+"5 Steps to publish my first npm package" by Alba Silvente on DEV
+"Javascript Frameworks that will rock this year!" on DEV
+"Facing impostor syndrome and time management issues" by Leonardo Faria on freeCodeCamp
