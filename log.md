@@ -892,3 +892,44 @@ I also played with the Bulma CSS framework and honestly, I still don't know how 
 "5 Steps to publish my first npm package" by Alba Silvente on DEV
 "Javascript Frameworks that will rock this year!" on DEV
 "Facing impostor syndrome and time management issues" by Leonardo Faria on freeCodeCamp
+
+
+### Day 37: April 27 Monday
+
+**Objectives:**
+
+- JavaScript Arrays and Collections on Pluralsight
+- Update the Covid 19 dashboard with charts
+
+**Todays' Progress:**
+
+Completed the "TypeScript: The Bigger Picture" course by Simon Allrdice on Pluralsight. Learnt about the three major benefits of using Typscript(i.e Static typing, Tooling and Organization) => will consider using it in my next big projects.
+Completed the "Javascript and Collections" course by Jeff Batt on Pluralsight. Learnt how to work with chartjs library, Sets, Maps and Data Collections as well as an intro in Typed Arrays.
+I added a doughnut chart on the dashboard and improved on the visual design.
+
+live: [https://covid-data-xi.now.sh](https://covid-data-xi.now.sh)
+
+**Articles:**
+
+1. "How to create pure CSS illustrations and animate them - Part 1" by Agathe Cocco on Dev
+2. "Don't miss out on CSS variables" by Tim Deschryver on DEV
+3. "How to center elements with CSS" by Naveen Kharwar on DEV
+
+
+
+### Day 38: April 28 Tuesday
+
+**Objectives:**
+
+- Continue with Angular Routing and Navigation
+- Javascript Objects continuation
+
+**Todays' Progress:**
+
+I continued looking at/practicing JS Objects and Prototypes including patterns for creating objects and prototypal inheritance.(JS Prototype is a tricky and crucial concept that every Developer must understand => javascripttutorial.net).
+I continued wit the Angular Events app. I created a data service, configured routes and created a route guard service. I was excited to do develop these parts with a clear understanding and planning without much referencing which is a great milestone for me.
+
+**Articles:**
+
+1. "Difference between ActivatedRoute and ActivatedRouteSnapshot in Angular"
+link: [https://www.geekboots.com/story/difference-between-activatedroute-and-activatedroutesnapshot-in-angular](https://www.geekboots.com/story/difference-between-activatedroute-and-activatedroutesnapshot-in-angular)
