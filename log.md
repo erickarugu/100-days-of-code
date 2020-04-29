@@ -933,3 +933,27 @@ I continued wit the Angular Events app. I created a data service, configured rou
 
 1. "Difference between ActivatedRoute and ActivatedRouteSnapshot in Angular"
 link: [https://www.geekboots.com/story/difference-between-activatedroute-and-activatedroutesnapshot-in-angular](https://www.geekboots.com/story/difference-between-activatedroute-and-activatedroutesnapshot-in-angular)
+
+
+### Day 39: [April 29 Wednesday]
+
+**Objectives:**
+
+- Continue with Angular Routing and Navigation
+- Product Management Masterclass - How to Build Digital Products
+
+**Todays' Progress:**
+
+I completed >50% of the Product Management Masterclass - How to Build Digital Products. It's not directly related to coding but the skills taught here are a must-have, plus it's on a 100% discount.
+I learned how to create a feature module with full functionality including the routes and implemented o the Angular Events practice app.
+
+1. Repo: [https://github.com/erickarugu32/angular-events-app](https://github.com/erickarugu32/angular-events-app)
+
+**Articles:**
+
+1. "5 npm Tips and Tricks to Help You Boost Your Productivity" by Niall Maher on freeCodeCamp
+
+2. "650+ Free Online Programming & Computer Science Courses You Can Start This May" by Dhawal Shah on freeCodeCamp
+
+3. "Increase Your Chances Of Getting Hired As A Code Newbie " by Catalin Pit on his website
+link: [https://catalins.tech/increase-your-chances-of-getting-hired-as-a-code-newbie](https://catalins.tech/increase-your-chances-of-getting-hired-as-a-code-newbie)
