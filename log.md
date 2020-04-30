@@ -668,7 +668,6 @@ I practiced recursive functions in Javascript.
 1. link: (https://www.freecodecamp.org/news/how-i-went-from-stay-at-home-mum-to-landing-my-first-web-developer-job/)[https://www.freecodecamp.org/news/how-i-went-from-stay-at-home-mum-to-landing-my-first-web-developer-job/]
 
 
-
 ### Day 26: April 16, Thursday
 
 **Objectives:**
@@ -957,3 +956,26 @@ I learned how to create a feature module with full functionality including the r
 
 3. "Increase Your Chances Of Getting Hired As A Code Newbie " by Catalin Pit on his website
 link: [https://catalins.tech/increase-your-chances-of-getting-hired-as-a-code-newbie](https://catalins.tech/increase-your-chances-of-getting-hired-as-a-code-newbie)
+
+
+### Day 40: [April 30 Thursday]
+
+**Objectives:**
+
+- Javascript Promises and Async Programming by Nate Taylor - Pluralsight
+  - Angular Forms  Angular Fundamentals - Continue with the events app
+
+**Progress:**
+
+I learnt about working with Promises and async/wait thanks to course on the same by Nate Taylor on pluralsight.
+I refactored my weather app to use the asyn & wait approach for better performance.
+
+live: [https://erickarugu32.github.io/Weather-App/](https://erickarugu32.github.io/Weather-App/)
+
+**Articles:**
+
+1. "How To Start and Finish a Side Project " by Harrison Reld on DEV
+2. "How to Learn to Code" by Eric Elliott on Medium
+3. link: [https://medium.com/javascript-scene/how-to-learn-to-code-9f5803506bac](https://medium.com/javascript-scene/how-to-learn-to-code-9f5803506bac)
+
+4. "Image optimization for web" by Anton Garcia Diaz on freeCodeCamp
