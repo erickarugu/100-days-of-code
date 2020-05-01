@@ -979,3 +979,22 @@ live: [https://erickarugu32.github.io/Weather-App/](https://erickarugu32.github.
 3. link: [https://medium.com/javascript-scene/how-to-learn-to-code-9f5803506bac](https://medium.com/javascript-scene/how-to-learn-to-code-9f5803506bac)
 
 4. "Image optimization for web" by Anton Garcia Diaz on freeCodeCamp
+
+
+### Day 41: May 1 Friday
+
+**Objectives:**
+
+ - Continue with Angular Services
+  - Bulma CSS Framework practice
+
+**Progress:**
+
+I continued playing with Angular Services. I understood how to configure Dependency Injection in Angular using different methods.
+I played with Bulma CSS, learning how to couple it with minimal custom CSS to create amazing designs in a very short time and with minimal effort.
+I continued refactoring the Weather App, fixing loading bugs, and server errors for smooth data rendering and User Experience.
+
+**Articles:**
+
+1. "Reflections on my first 1,000 hours learning to code" by Peter Higgins on Medium
+2. "10 Awesome Github Repos Every Web Developer Should Know" by Simon Holdorf on Medium
