@@ -998,3 +998,30 @@ I continued refactoring the Weather App, fixing loading bugs, and server errors 
 
 1. "Reflections on my first 1,000 hours learning to code" by Peter Higgins on Medium
 2. "10 Awesome Github Repos Every Web Developer Should Know" by Simon Holdorf on Medium
+
+
+### Day 42: May 2 Saturday
+
+**Objectives:**
+
+ - Start working on the DigiTol Website - 10 Full Websites Challenge
+ - JS Functional Programming practice
+ - Practice UI Design @Figma - the best free UI design platform on the web! 
+
+**Today:**
+
+I went through JS functional programming concepts and techniques, completing 50% of the "JS Fundamentals" course on @pluralsight before they ended the free subscription.
+I also decided to refresh my design skills & designed a website for a fictional company on @figmadesign
+
+**Articles:**
+
+"Earn a Free Oracle Cloud Certification Using This Free 3-Hour Course (Before May 15th)" by Andrew Brown on freeCodeCamp
+"CSS Background Image Size Tutorial – How to Code a Full Page Background Image" on freeCodeCamp
+"Ace your first year as a junior developer with this advice" on Medium
+1. link: [https://medium.com/free-code-camp/ace-your-first-year-as-a-junior-developer-with-this-advice-bbc68b6fe2d9](https://medium.com/free-code-camp/ace-your-first-year-as-a-junior-developer-with-this-advice-bbc68b6fe2d9)
+
+Tools/Resources I found Useful Today:
+ - [https://logomakr.com](https://logomakr.com)/ => Free & Instant Logo Maker
+ - [https://www.figma.com](https://www.figma.com/)/ => Free UI Design platform
+ - [https://undraw.co => Free and Customizable SVGs](https://undraw.co => Free and Customizable SVGs)!
+ - [https://www.exampro.co/choose-an-exam](https://www.exampro.co/choose-an-exam) => Best Stop for professional training courses on AWS Certification Exams (Not entirely Free but they have some courses for free o YouTube)
