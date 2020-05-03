@@ -1025,3 +1025,23 @@ Tools/Resources I found Useful Today:
  - [https://www.figma.com](https://www.figma.com/)/ => Free UI Design platform
  - [https://undraw.co => Free and Customizable SVGs](https://undraw.co => Free and Customizable SVGs)!
  - [https://www.exampro.co/choose-an-exam](https://www.exampro.co/choose-an-exam) => Best Stop for professional training courses on AWS Certification Exams (Not entirely Free but they have some courses for free o YouTube)
+
+
+### Day 43: May 3 Sunday
+
+**Objectives:**
+
+ - HTML5, CSS3 refresher
+ - DOM Manipulation
+ - Continue with Figma Design
+
+**Today:**
+
+I did multiple HTML5 and CSS3 practice questions on Sololearn. It turns out there are a lot of new features introduced in both HTML5 and CSS3 that litereally nobody talks about. I earned the two certificates easily without much trouble.
+Practiced setting up a Vanilla JS application with Bulma and Sass.
+
+**Articles:**
+
+1. "Let's sort with JavaScript " by Yaser Adel Mehraban on DEV
+
+2. "The State of Angular in 2019" by Eden Ella on DEV
