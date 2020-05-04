@@ -1045,3 +1045,23 @@ Practiced setting up a Vanilla JS application with Bulma and Sass.
 1. "Let's sort with JavaScript " by Yaser Adel Mehraban on DEV
 
 2. "The State of Angular in 2019" by Eden Ella on DEV
+
+
+### Day 44: May 4 Monday
+
+**Objectives:**
+
+ - Data Structures and Algorithms refresher
+ - DOM Manipulation
+
+**Today:**
+
+I went through some Data Structures concepts - Abstract Data Type, Complexity Analysis (The Big-O Notation), Static and Dynamic Arrays. It was an amazing refresher!
+
+I practiced stack and queue implementation using Javascript and I loved it.
+
+**Articles:**
+
+"Things to learn before learning a JavaScript framework" on Medium
+
+"Coding Practices Our Teammates Will Thank Us For" by John Au-Yeung on DEV
