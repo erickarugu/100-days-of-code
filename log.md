@@ -1065,3 +1065,19 @@ I practiced stack and queue implementation using Javascript and I loved it.
 "Things to learn before learning a JavaScript framework" on Medium
 
 "Coding Practices Our Teammates Will Thank Us For" by John Au-Yeung on DEV
+
+### Day 45: May 5 Tuesday
+
+**Objectives:**
+
+ - CSS Refresher -  Landing page Redesign
+
+**Today:**
+
+I decided to design a McDonald's simple landing page using CSS. I finally nailed creating a responsive navigation header.
+ - Codepen: [https://codepen.io/ericko12/full/zYvpbad]( https://codepen.io/ericko12/full/zYvpbad)
+
+**Article:**
+
+"20+ PROJECTS YOU CAN DO WITH JAVASCRIPT" by Scott Morris at SkillShare
+link: https://skillcrush.com/blog/projects-you-can-do-with-javascript/
