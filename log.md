@@ -1081,3 +1081,21 @@ I decided to design a McDonald's simple landing page using CSS. I finally nailed
 
 "20+ PROJECTS YOU CAN DO WITH JAVASCRIPT" by Scott Morris at SkillShare
 link: https://skillcrush.com/blog/projects-you-can-do-with-javascript/
+
+
+
+### Day 47: May 7 Thursday
+
+**Objectives:**
+
+ - Javascript Intermediate Algorithm Scripting => freeCodeCamp
+
+**Today:**
+
+I finally completed all the Intermediate Algorithms scripting challenges and the final  project (Cash Register) at freeCodeCamp earning my 3rd freeCodeCamp certificate (Javascript Algorithms and Data Structures)
+
+**Articles:**
+
+"Fibonacci sequence algorithm in Javascript" by devlucky on Medium
+
+"How to Remove Array Duplicates in ES6" by Samantha Ming on Medium
