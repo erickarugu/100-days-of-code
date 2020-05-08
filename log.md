@@ -1099,3 +1099,23 @@ I finally completed all the Intermediate Algorithms scripting challenges and the
 "Fibonacci sequence algorithm in Javascript" by devlucky on Medium
 
 "How to Remove Array Duplicates in ES6" by Samantha Ming on Medium
+
+
+### Day 48: May 8 Friday
+
+**Objectives:**
+
+ - Regular Expressions in JavaScript
+
+**Today:**
+
+I practiced forming advanced Regular Expressions in JS.
+I created a sample Random Password generator. I still do not understand how it took me more than 5 hrs to complete it.
+
+- Codepen: [https://codepen.io/ericko12/full/yLYKzmZ](https://codepen.io/ericko12/full/yLYKzmZ)
+
+**Articles:**
+
+I came across this regex guide today:											
+"A guide to JavaScript Regular Expressions"
+link: https://flaviocopes.com/javascript-regular-expressions/
