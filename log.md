@@ -1119,3 +1119,31 @@ I created a sample Random Password generator. I still do not understand how it t
 I came across this regex guide today:											
 "A guide to JavaScript Regular Expressions"
 link: https://flaviocopes.com/javascript-regular-expressions/
+
+
+### Day 49: May 9 Saturday
+
+**Objectives:**
+
+ - CSS Position refresher
+ - Working with jQuery (I know it's kinda outdated but why not)
+
+**Today:**
+
+I did a CSS Position refresher - Absolute, Relative, Fixed, Sticky, Static.
+Learned how to work with jQuery to create a responsive design with cool animations.
+
+**Highlights:**
+
+I am halfway through the challenge, today being the 49th day and I am happy because it is also the day that I  got a chance to work on a paying mini project/website. This gave me the motivation to continue leveling up my skills.
+
+**Article:**
+
+I went through a couple of amazing articles on freeCodeCamp:
+
+ - "Flex vs Grid" by Javascript Teacher
+ - "What is a Senior Developer and how can I become One?" by Colby Fayock
+ - "How to Write Proposals That will win Over freelance clients" by Kyle Prinsloo
+ - "HTML Background Color Tutorial – How to Change a Div Background Color, Explained with Code Examples" by Sarah Chima Atuonwu
+ - "How to Become an Unreal Automation Expert" by Tim Grossman
+ - "How and WHy to Incorporate AI into Web Development" by Roger James
