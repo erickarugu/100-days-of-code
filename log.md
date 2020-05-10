@@ -1147,3 +1147,23 @@ I went through a couple of amazing articles on freeCodeCamp:
  - "HTML Background Color Tutorial – How to Change a Div Background Color, Explained with Code Examples" by Sarah Chima Atuonwu
  - "How to Become an Unreal Automation Expert" by Tim Grossman
  - "How and WHy to Incorporate AI into Web Development" by Roger James
+
+
+### Day 50: May 10 Sunday
+
+**Objectives:**
+
+ - Working with D3.js library
+ - Making HTTP requests in Angular
+
+**Today:**
+
+Set up an angular project and configured the basis logic.
+Learnt how to make http requests in Angular.
+Explored Firebase Authentication, Hosting and Storage services.					
+
+**Articles:**
+
+"How to Automate Your Blog Post Publishing Process with Typescript" by TK on freeCodeCamp
+
+"I Moved Abroad to Work for a Startup – and I Came Back with Nothing, and Everything." by Kim Thuy Tu on freeCodeCamp 
