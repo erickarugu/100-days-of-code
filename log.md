@@ -1167,3 +1167,27 @@ Explored Firebase Authentication, Hosting and Storage services.
 "How to Automate Your Blog Post Publishing Process with Typescript" by TK on freeCodeCamp
 
 "I Moved Abroad to Work for a Startup – and I Came Back with Nothing, and Everything." by Kim Thuy Tu on freeCodeCamp 
+
+
+### Day 51: May 12 Tuesday
+
+**Objectives:**
+
+ - Working with D3.js library
+ - Continue on the angular project
+
+**Today:**
+
+Came back from a well deserved one daybreak.
+I played with the D3.js visualization library and started working on the first Data Visualization freeCodeCamp challenge.
+Continued with the client website project.
+Codepen: [https://codepen.io/ericko12/pen/mdeKZEE](https://codepen.io/ericko12/pen/mdeKZEE)
+
+**Articles:**
+
+"How to Write Proposals That Will Win Over Freelance Clients (Free Download)"
+[https://www.freecodecamp.org/news/free-web-design-proposal-template/](https://www.freecodecamp.org/news/free-web-design-proposal-template/)
+
+"Asking Effective Questions: A Practical Guide for Developers" by Bolaji Ayodeji
+
+"How I Built My Own Forecasting Tool Using a Weather API" by Anton Lawrence on freeCodeCamp
