@@ -1117,7 +1117,7 @@ I created a sample Random Password generator. I still do not understand how it t
 **Articles:**
 
 I came across this regex guide today:											
-"A guide to JavaScript Regular Expressions"
+- "A guide to JavaScript Regular Expressions"
 link: https://flaviocopes.com/javascript-regular-expressions/
 
 
@@ -1164,9 +1164,9 @@ Explored Firebase Authentication, Hosting and Storage services.
 
 **Articles:**
 
-"How to Automate Your Blog Post Publishing Process with Typescript" by TK on freeCodeCamp
+- "How to Automate Your Blog Post Publishing Process with Typescript" by TK on freeCodeCamp
 
-"I Moved Abroad to Work for a Startup – and I Came Back with Nothing, and Everything." by Kim Thuy Tu on freeCodeCamp 
+- "I Moved Abroad to Work for a Startup – and I Came Back with Nothing, and Everything." by Kim Thuy Tu on freeCodeCamp 
 
 
 ### Day 51: May 12 Tuesday
@@ -1185,9 +1185,30 @@ Codepen: [https://codepen.io/ericko12/pen/mdeKZEE](https://codepen.io/ericko12/p
 
 **Articles:**
 
-"How to Write Proposals That Will Win Over Freelance Clients (Free Download)"
+- "How to Write Proposals That Will Win Over Freelance Clients (Free Download)"
 [https://www.freecodecamp.org/news/free-web-design-proposal-template/](https://www.freecodecamp.org/news/free-web-design-proposal-template/)
 
-"Asking Effective Questions: A Practical Guide for Developers" by Bolaji Ayodeji
+- "Asking Effective Questions: A Practical Guide for Developers" by Bolaji Ayodeji
 
-"How I Built My Own Forecasting Tool Using a Weather API" by Anton Lawrence on freeCodeCamp
+- "How I Built My Own Forecasting Tool Using a Weather API" by Anton Lawrence on freeCodeCamp
+
+
+### Day 52: May 13 Wednesday
+
+**Objectives:**
+
+ - Continue ith d3.js library
+ - Continue with freeCodeCamp chalenges
+
+**Today:**
+
+Repeated all the freeCodeCamp d3.js library related challenges and continued with the Bar Graph Visualization project. The D3 library is quite intimidating at first but I am working very hard to nail it soon.
+
+**Articles:**
+
+- "20 Awe-Inspiring Codepen Examples You Can Learn From" by Frontend Dude on DEV 
+link: [https://dev.to/frontenddude/20-awe-inspiring-codepen-examples-you-can-learn-from-1kea](https://dev.to/frontenddude/20-awe-inspiring-codepen-examples-you-can-learn-from-1kea)
+
+- "I built a members' area on my website with Python and Django. Here's what I learned." by Nick McCullum on freeCodeCamp
+
+- "How to Understand RxJS Operators by Eating a Pizza: zip, forkJoin, & combineLatest Explained with Examples" on freeCodeCamp
