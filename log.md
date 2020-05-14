@@ -1212,3 +1212,25 @@ link: [https://dev.to/frontenddude/20-awe-inspiring-codepen-examples-you-can-lea
 - "I built a members' area on my website with Python and Django. Here's what I learned." by Nick McCullum on freeCodeCamp
 
 - "How to Understand RxJS Operators by Eating a Pizza: zip, forkJoin, & combineLatest Explained with Examples" on freeCodeCamp
+
+
+### Day 53: May 14 Thursday
+
+**Objectives:**
+
+ - High Order JS Functions (Map, FIlter, Slice)
+ - Continue with D3. js Library
+
+**Today:**
+
+Continued playing with the D3.js library.
+Designed and developed two website pages using Bootstrap 4.
+
+**Articles:**
+
+ I went through a couple of atricles on freeCodeCamp
+ - "How to Write More Effectively and Develop Your Unique Style" by Colby Fayock
+ - "Why I Believe Deno is a Step in the Wrong Direction for JavaScript Runtime Environments" by Mehul Mohan
+ - "JavaScript Array of Objects Tutorial – How to Create, Update, and Loop Through Objects Using JS Array Methods" by Ondrej Polesny 
+ - "How to Stay Motivated to Keep Learning to Code" by Adrian Twarog
+ - "A Developer's Guide to Website Speed Optimization" by Digvijay Singh
