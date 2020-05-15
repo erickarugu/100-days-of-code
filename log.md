@@ -1234,3 +1234,22 @@ Designed and developed two website pages using Bootstrap 4.
  - "JavaScript Array of Objects Tutorial – How to Create, Update, and Loop Through Objects Using JS Array Methods" by Ondrej Polesny 
  - "How to Stay Motivated to Keep Learning to Code" by Adrian Twarog
  - "A Developer's Guide to Website Speed Optimization" by Digvijay Singh
+
+
+### Day 54: May 15 Friday
+
+**Objectives:**
+
+ - WebApp Theming
+ - Angular Firebase
+
+**Today:**
+
+I learned and practiced how to take advantage of the new CSS Variables concept to create and toggle different themes for the same App.
+I learned and practiced how to easily make an Angular app PWA.
+
+**Articles:**
+
+ - "How to Crack the Google Season of Docs Application Process for 2020" by Edidiong Asikpo on freeCodeCamp
+ - "Open Source contributions: A catalyst for growth." by Edidiong Asikpo
+ - "GSOD Project Report: Modernize (rewrite) the VLC user documentation" by Edidiong Asikpo on medium
