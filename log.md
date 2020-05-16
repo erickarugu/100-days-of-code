@@ -1253,3 +1253,21 @@ I learned and practiced how to easily make an Angular app PWA.
  - "How to Crack the Google Season of Docs Application Process for 2020" by Edidiong Asikpo on freeCodeCamp
  - "Open Source contributions: A catalyst for growth." by Edidiong Asikpo
  - "GSOD Project Report: Modernize (rewrite) the VLC user documentation" by Edidiong Asikpo on medium
+
+
+### Day 55: May 16 Saturday
+
+**Objectives:**
+
+ - Continue with Angular Firebase Practice
+
+**Today:**
+
+Continued playing with Angular Firebase implementation. 
+Designed a mini app to start working on using Angular and Firebase.
+
+**Articles:**
+
+"How I got my first job as a junior developer at 40+ of age after 6 months?" by Luc_C on DEV.to
+
+"Why I fell in love with tailwindcss" by Martin Beierling on DEV.to
