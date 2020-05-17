@@ -1271,3 +1271,17 @@ Designed a mini app to start working on using Angular and Firebase.
 "How I got my first job as a junior developer at 40+ of age after 6 months?" by Luc_C on DEV.to
 
 "Why I fell in love with tailwindcss" by Martin Beierling on DEV.to
+
+### Day 56: May 17 Sunday
+
+**Objectives:**
+
+ -  Angular Firebase Authentication
+ - Firebase Services
+
+**Progress:**
+Continued learning how to effectively set up Angular Firebase in an Angular App. Started playing with the Firebase services (Storage, Hosting, Databases..)
+
+**Articles:**
+
+1. "Legacy Code Tips – How to Take Over an Existing Project and its Codebase" by Milecia McGregor on freeCodeCamp
