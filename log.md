@@ -1285,3 +1285,24 @@ Continued learning how to effectively set up Angular Firebase in an Angular App.
 **Articles:**
 
 1. "Legacy Code Tips – How to Take Over an Existing Project and its Codebase" by Milecia McGregor on freeCodeCamp
+
+
+### Day 57: May 18 Monday
+
+**Objectives:**
+
+ - Continue with Angular Firebase mini-project (Authentication and initial set up)
+ - Work with Bulma
+
+**Progress:**
+
+I started working on my full Angular-Firebase Application - Complimentr(a platform to anonymously leave a compliment for a colleague).
+I completed setting up the login and registration authentication using email+password and, Google.
+Continued learning how to effectively work with Bulma, I wrote no custom CSS at all!
+
+**Articles:**
+
+ - "Reloading Components when a change in Route Params — Angular" by Vivek m on medium
+ - " Angular Detecting Route Changes Within Your Application" by Elliot Forbes on tutorialedge.net
+ - "Full Angular 7|8|9 Firebase Authentication Tutorial Examples"
+link: [https://www.positronx.io/full-angular-7-firebase-authentication-system/](https://www.positronx.io/full-angular-7-firebase-authentication-system/)
