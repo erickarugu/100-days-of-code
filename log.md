@@ -1306,3 +1306,33 @@ Continued learning how to effectively work with Bulma, I wrote no custom CSS at 
  - " Angular Detecting Route Changes Within Your Application" by Elliot Forbes on tutorialedge.net
  - "Full Angular 7|8|9 Firebase Authentication Tutorial Examples"
 link: [https://www.positronx.io/full-angular-7-firebase-authentication-system/](https://www.positronx.io/full-angular-7-firebase-authentication-system/)
+
+### Day 58: May 19 Tuesday
+
+**Objectives:**
+
+- Continue with Angular Firebase mini-project
+
+**Progress:**
+
+Continued working on the firebase authentication functionality - Complimentr
+
+**Articles:**
+ - "How I turned my laptop into a server" on DEV.to
+
+
+### Day 59: May 20 Wednesday
+
+**Objectives:**
+
+- Continue with Angular Firebase mini-project	
+
+**Progress:**
+
+Today, I made a huge progress on the Angular-Firebase mini app. I completed the write and read firebase set up and implementation. In the process I learnt how to create firebase collections and perform CRUD operations effectively. I continued to learn how to work with Promises especially in an Angular project + template driven forms.
+
+**Articles:**
+
+1. "The 8 Best Coding Challenge Websites to Help You Level Up Your Skills in 2020" by Daniel Borowski on freeCodeCamp
+
+2. "Angular Firebase Tutorial: Read/Write data into a NoSql Database Collection" by Chris House on Medium
