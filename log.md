@@ -1331,8 +1331,30 @@ Continued working on the firebase authentication functionality - Complimentr
 
 Today, I made a huge progress on the Angular-Firebase mini app. I completed the write and read firebase set up and implementation. In the process I learnt how to create firebase collections and perform CRUD operations effectively. I continued to learn how to work with Promises especially in an Angular project + template driven forms.
 
+ - repo: [https://github.com/erickarugu32/complimentr](https://github.com/erickarugu32/complimentr)
+
 **Articles:**
 
 1. "The 8 Best Coding Challenge Websites to Help You Level Up Your Skills in 2020" by Daniel Borowski on freeCodeCamp
 
 2. "Angular Firebase Tutorial: Read/Write data into a NoSql Database Collection" by Chris House on Medium
+
+
+### Day 60: May 21 Thursday
+
+**Objectives:**
+
+ - Continue with Complimentr(Add Filtering notes functionality)
+ - Building Progressive Web App(PWA) using angular
+
+**Progress:**
+
+I learned how to make an angular app PWA. Turns out it is pretty easy thanks to the angular team you barely even need to code. I made the Complimentr mini-app a PWA and it was fun and amazing implementing this feature. The filtering bit is gonna have to wait, its a bit technical.
+ - repo: [https://github.com/erickarugu32/complimentr](https://github.com/erickarugu32/complimentr)
+
+**Articles:**
+
+ - "How to Use Deliberate Practice to Learn Programming More Efficiently" by Victor Cassone on freeCodeCamp
+ - "How To Build Progressive Web Apps with Angular" by Eniola Lucas Fakeye on DigitalOcean
+link: [https://www.digitalocean.com/community/tutorials/how-to-build-progressive-web-apps-with-angular](https://www.digitalocean.com/community/tutorials/how-to-build-progressive-web-apps-with-angular)
+ - "Build a Progressive Web App with Angular" by John Green on medium
