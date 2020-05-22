@@ -1358,3 +1358,24 @@ I learned how to make an angular app PWA. Turns out it is pretty easy thanks to 
  - "How To Build Progressive Web Apps with Angular" by Eniola Lucas Fakeye on DigitalOcean
 link: [https://www.digitalocean.com/community/tutorials/how-to-build-progressive-web-apps-with-angular](https://www.digitalocean.com/community/tutorials/how-to-build-progressive-web-apps-with-angular)
  - "Build a Progressive Web App with Angular" by John Green on medium
+
+
+### Day 61: May 21 Friday
+
+**Objectives:**
+
+ - Angular Services(Continue with project)
+ - Javascript30 - Day 1
+
+**Progress:**
+
+I learned how to work with Angular Title Service and implemented it in my project. It was amazing learning that this kind of service exists in angular.
+I implemented a carousel feature in one of my recent projects using Bootstrap.
+I began the Javascript 30days 30 projects challenge course by Wes Bos and created a Drum Kit for the first challenge(Topics: playing Audios, listening for transitions end event and Key events )
+CodePen: [https://codepen.io/ericko12/full/bGVZVyX](https://codepen.io/ericko12/full/bGVZVyX)
+
+**Articles:**
+
+ - "10 things to learn on the way to becoming a JavaScript Master" by Lukas Gisder-Dube on medium
+link: [https://levelup.gitconnected.com/10-things-to-learn-on-the-way-to-become-a-javascript-master-f4fc632b2bb7](https://levelup.gitconnected.com/10-things-to-learn-on-the-way-to-become-a-javascript-master-f4fc632b2bb7)
+ - "Like `console.log` But Better" by Leira Sanchez
