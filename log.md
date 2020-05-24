@@ -1379,3 +1379,23 @@ CodePen: [https://codepen.io/ericko12/full/bGVZVyX](https://codepen.io/ericko12/
  - "10 things to learn on the way to becoming a JavaScript Master" by Lukas Gisder-Dube on medium
 link: [https://levelup.gitconnected.com/10-things-to-learn-on-the-way-to-become-a-javascript-master-f4fc632b2bb7](https://levelup.gitconnected.com/10-things-to-learn-on-the-way-to-become-a-javascript-master-f4fc632b2bb7)
  - "Like `console.log` But Better" by Leira Sanchez
+ 
+ ### Day 62&63: May 23-24 Saturday - Sunday
+
+**Objectives:**
+
+ - Angular Services(Continue with project)
+ - Javascript30 - Day 2,3,4
+
+**Progress:**
+
+Completed Day 2,3 and 4 challenges in the Javascript30 course. Continued learning how to work with CSS variables and JS high order functions(map, reduce, sort, filter)
+I learned how to work wit email API and implemented it in one of the projects I am working on.
+
+JS+CSS ClockCodepen: [https://codepen.io/ericko12/full/XWmGyzm](https://codepen.io/ericko12/full/XWmGyzm)
+
+**Articles:**
+
+ - "Set CSS styles with javascript " by Eugene Karataev on DEV.to
+ - "JavaScript Array Sort Tutorial - How to Use The JS Sort Method (With Code Examples)" by Cem Eygi on freeCodeCamp
+ - "How MySpace Taught Me How to Code and Where You Should Look to Develop Your Passion" by Colby Fayock on freeCodeCamp
