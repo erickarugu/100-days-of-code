@@ -1416,3 +1416,23 @@ I did a CSS Flexbox refresher exercise creating an amazing panel gallery with so
 
  - "Top 5 Tools and Skills For Frontend Developers" and "How I Got My First Remote Job As A Developer" by Bankole Ahmed on Hashnode
  - "Defining Software Engineering Levels" by Usman Ismail on LinkedIn
+
+
+### Day 65: May 26 Tuesday
+
+**Objectives:**
+
+ - Flexbox refresher Continuation - Wes Bos Course
+ - Day 7,8- Javascript30 Challenge
+
+**Progress:**
+
+I continued with Flexbox practice. I also completed day 7 and 8 JS30 challenges reminding myself how to play with HTML5 canvas feature and some more high order Javascript functions.
+
+**Articles:**
+
+ - "HTML Entities – A List of HTML Space and other HTML Symbols and Special Character Codes" by Quincy Larson on freeCodeCamp
+
+ - "A Free Course to Help Front End Developers Learn Math" by Per Harald Borgen on freeCodeCamp
+
+ - "I created my own Pure CSS Micro-Framework, a tale " by Felippe Regazio
