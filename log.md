@@ -1399,3 +1399,20 @@ JS+CSS ClockCodepen: [https://codepen.io/ericko12/full/XWmGyzm](https://codepen.
  - "Set CSS styles with javascript " by Eugene Karataev on DEV.to
  - "JavaScript Array Sort Tutorial - How to Use The JS Sort Method (With Code Examples)" by Cem Eygi on freeCodeCamp
  - "How MySpace Taught Me How to Code and Where You Should Look to Develop Your Passion" by Colby Fayock on freeCodeCamp
+
+
+### Day 64: May 25 Monday
+
+**Objectives:**
+
+ - Ajax continuation - working with promises
+ - Flexbox refresher - Wes Bos Course
+
+**Progress:**
+
+I did a CSS Flexbox refresher exercise creating an amazing panel gallery with some slight guidance from the Wes Bos' JS30 course. I completed Day 5,6(Flex Panels Image Gallery and Ajax Type Ahead) challenges on the Javascipt30 challenge.
+
+**Articles:**
+
+ - "Top 5 Tools and Skills For Frontend Developers" and "How I Got My First Remote Job As A Developer" by Bankole Ahmed on Hashnode
+ - "Defining Software Engineering Levels" by Usman Ismail on LinkedIn
