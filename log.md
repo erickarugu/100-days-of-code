@@ -1436,3 +1436,27 @@ I continued with Flexbox practice. I also completed day 7 and 8 JS30 challenges 
  - "A Free Course to Help Front End Developers Learn Math" by Per Harald Borgen on freeCodeCamp
 
  - "I created my own Pure CSS Micro-Framework, a tale " by Felippe Regazio
+
+
+### Day 66&67: May 27-28  Wed-Thur
+
+**Objectives:**
+
+ - Day 9,10,11- Javascript30 Challenge
+ - Complimentr project (PWA fix and adding search ahead firebase filter functionality)
+ - Project's backend logic authentication connection
+
+**Progress:**
+
+I completed day 9,10 and 11 Javascript30 challenges. I learnt and practiced how to work with JWT tokens in an Angular application. I implemented the same in one of the Angular projects I am currently working on.
+From the Javascript30 challenges I learnt how to customize a HTML5 video player and customized one.
+
+**Articles:**
+
+An amazing article and website I came across today(Day 66)
+1. "Angular Security - Authentication With JSON Web Tokens (JWT): The Complete Guide" 
+link: [https://blog.angular-university.io/angular-jwt-authentication](https://blog.angular-university.io/angular-jwt-authentication)
+2. "Four Design Patterns You Should Use in Web Development" by Milecia McGregor on freeCodeCamp
+3. "How to Create a Custom API From Any Website Using Puppeteer" by Taroque Ejaz on freeCodeCamp
+4. "How to Use On-Page SEO Techniques to Rank on the First Page of Google" by James Murphy on freeCodeCamp
+5. "How to Choose and Care for a Secure Open Source Project" by Victoria Drake on freeCodeCamp
