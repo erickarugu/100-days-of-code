@@ -1460,3 +1460,28 @@ link: [https://blog.angular-university.io/angular-jwt-authentication](https://bl
 3. "How to Create a Custom API From Any Website Using Puppeteer" by Taroque Ejaz on freeCodeCamp
 4. "How to Use On-Page SEO Techniques to Rank on the First Page of Google" by James Murphy on freeCodeCamp
 5. "How to Choose and Care for a Secure Open Source Project" by Victoria Drake on freeCodeCamp
+
+
+### Day 68,69: May 29,30  Fri,Sat
+
+**Objectives:**
+
+ - Vanilla JS Progressive Web Apps - Create a PWA News App
+ - Day 12,13- Javascript30 Challenge
+ - Bring Complimentr back to life	
+
+**Progress:**
+
+I created a Vanilla JS progressive web app utilizing CSS variables to create a dark and light theme. I continued to learn how t use the async await js approach for fetching data from API endpoints. I fixed a PWA bug issue on the Complimentr App and added class toggle features using the @ViewChild decorator.
+
+- Complimentr: [https://complimentr.web.app](https://complimentr.web.app)
+- To Let: [https://tolet-ke.web.app](https://tolet-ke.web.app)
+- DigiNews PWA: [https://erickarugu32.github.io/diginews](https://erickarugu32.github.io/diginews)
+
+**Articles:**
+
+1. "Emit an event from a child to parent component in Angular 9" by ZeroesAndOnes on medium
+2. "Full Angular 7|8|9 Firebase Authentication Tutorial Examples" 
+link: [https://www.positronx.io/full-angular-7-firebase-authentication-system/]( https://www.positronx.io/full-angular-7-firebase-authentication-system/)
+3. Continued with: "Angular Security - Authentication With JSON Web Tokens (JWT): The Complete Guide"
+link: [https://blog.angular-university.io/angular-jwt-authentication/](https://blog.angular-university.io/angular-jwt-authentication/)
