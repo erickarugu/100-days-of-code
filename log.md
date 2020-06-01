@@ -1485,3 +1485,32 @@ I created a Vanilla JS progressive web app utilizing CSS variables to create a d
 link: [https://www.positronx.io/full-angular-7-firebase-authentication-system/]( https://www.positronx.io/full-angular-7-firebase-authentication-system/)
 3. Continued with: "Angular Security - Authentication With JSON Web Tokens (JWT): The Complete Guide"
 link: [https://blog.angular-university.io/angular-jwt-authentication/](https://blog.angular-university.io/angular-jwt-authentication/)
+
+
+### Day 70,71: May 31, June 1  Sun, Mon
+
+**Objectives:**
+
+ - Day 12,13, 14,15, 16 - Javascript30 Challenge
+ - Complimentr Site
+ - GAD scholarship - Cloud Executive Briefing course
+
+**Progress:**
+
+I completed Day 12 through Day 16 challenges of the Javascript30 challenge. This plays a major role in helping me to continue solidifying my knowledge in JS basic concepts and tricks around DOM manipulation, local storage API, Objects, and Javascript events.
+
+Besides the JS30 challenge, I continued working on the Complimentr App, improving the UI and firebase storage manipulation.
+
+I completed the Cloud Briefing course by Simon Allardice on Pluralsight as part of the GAD scholarship qualification requirement - there was no coding though. From the course, I finally understood the general benefits of using Cloud Services (Cost, Convenience, Speed and Features), the distinction between the three major categories(IaaS, Paas and Saas) and the major characteristics of Cloud Computing (Internet Connected, Uses Third-Party Hardware, Self-Service, and On-Demand and Resource Pooling)
+
+``[There is a Cloud. It is not just someone else's computer.]``
+
+**Articles:**
+
+I stumbled into these three random articles which I found intriguing:
+
+1. "Front end Engineering. Beyond Front end Development 🚀" by Ejiro Asiuwhu on medium
+
+2. "15 App Ideas to Build and Level Up your Coding Skills" by Florin Pop on medium
+
+3. "How to Use the Mentoring Framework to Learn a New Skill" by Leonardo Faria
