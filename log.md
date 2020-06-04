@@ -1514,3 +1514,24 @@ I stumbled into these three random articles which I found intriguing:
 2. "15 App Ideas to Build and Level Up your Coding Skills" by Florin Pop on medium
 
 3. "How to Use the Mentoring Framework to Learn a New Skill" by Leonardo Faria
+
+
+### Day 72,73: [June 2,3, Tue-Wed]
+
+**Objectives:**
+
+ - Day 17 - Javascript30 Challenge
+ - Working with Git - How Git Works+GitHub
+ - Complimentr - phase 1 complete
+								
+**Progress:**
+
+I delved deep into git to understand its core working concepts. By the end, I understood how GIT works under the hood by having an interlinked object model. "GIT is just a stupid content tracker" - final conclusion after the first day of learning. I also learned a few "plumbing" commands (low-level commands).
+
+I completed the Complimentr project phase 1 - adding extra pages using the Bulma CSS framework. I also added filter/search functionality and refactored the code to ensure code reusability and speed. I learned how to filter data from firebase collections and databases.
+
+ `` Complimentr: [complimentr-ke.web.app](complimentr-ke.web.app)``
+ `` Repo: [https://github.com/erickarugu32/complimentr](https://github.com/erickarugu32/complimentr) ``
+
+**Articles:**
+1. "Angular + Firebase + Typescript — Step by step tutorial" by Jonny Fox on medium 
