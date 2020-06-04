@@ -1530,8 +1530,8 @@ I delved deep into git to understand its core working concepts. By the end, I un
 
 I completed the Complimentr project phase 1 - adding extra pages using the Bulma CSS framework. I also added filter/search functionality and refactored the code to ensure code reusability and speed. I learned how to filter data from firebase collections and databases.
 
- `` Complimentr: [complimentr-ke.web.app](complimentr-ke.web.app)``
- `` Repo: [https://github.com/erickarugu32/complimentr](https://github.com/erickarugu32/complimentr) ``
+  - Complimentr: [complimentr-ke.web.app](complimentr-ke.web.app)``
+  - Repo: [https://github.com/erickarugu32/complimentr](https://github.com/erickarugu32/complimentr) ``
 
 **Articles:**
 1. "Angular + Firebase + Typescript — Step by step tutorial" by Jonny Fox on medium 
