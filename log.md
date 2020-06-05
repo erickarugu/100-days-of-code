@@ -1535,3 +1535,24 @@ I completed the Complimentr project phase 1 - adding extra pages using the Bulma
 
 **Articles:**
 1. "Angular + Firebase + Typescript — Step by step tutorial" by Jonny Fox on medium 
+
+
+### Day 74&75: June 4,5 Thur-Fri
+
+**Objectives:**
+
+- Day 17 - 21 - Javascript30 challenge
+ - Complimentr => New User Registration functionality
+
+**Achievements:**
+
+I had fun creating a live video editing project using webcam in Javascript. Until then I didnt know it was easy to manipulate the Video and Audio API using pure Javascript.
+I also added a new user registration functionality to the Complimentr site. The whole project is really taking form and also helping me to continue advancing my Firebase, TypeScript and Angular knowledge.
+
+**Readings:**
+
+1. "How to Make Your Own VS Code Extension" by Pramono Winata on freeCodeCamp
+
+2. "How I Created a Coronavirus Tracker App in Just 3 Days with Ionic and Firebase" by Kapil Raghuwanshi on freeCodeCamp
+
+3. "Arrow Function JavaScript Tutorial – How to Declare a JS Function with the New ES6 Syntax" by Amy Haddad on freeCodecamp
