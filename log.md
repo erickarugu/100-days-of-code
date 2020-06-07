@@ -1556,3 +1556,30 @@ I also added a new user registration functionality to the Complimentr site. The 
 2. "How I Created a Coronavirus Tracker App in Just 3 Days with Ionic and Firebase" by Kapil Raghuwanshi on freeCodeCamp
 
 3. "Arrow Function JavaScript Tutorial – How to Declare a JS Function with the New ES6 Syntax" by Amy Haddad on freeCodecamp
+
+
+### Day 76&77: June 6,7 Sat-Sun
+
+**Objectives:**
+
+- Day 22 - Javascript30 challenge
+ - Complimentr => Final Wrap up on version 2
+ - Diving deep into Git - Rebasing + Distributed Version Control
+
+**Achievements:**
+
+I completed deep git learning. I finally understood Git as a multilayered tool with each layer contributing to the success of this amazing distributed version control system. I learned the deeper difference between "rebase" and "merge".
+
+**Readings:**
+
+1. "Git — Version Control System" by Anjali Tiwari on medium
+link: https://towardsdatascience.com/git-version-control-system-666a1ffd85d3
+
+2. "Git tutorial: Get started with Git version control" by William Rothwell on InfoWorld
+link: https://www.infoworld.com/article/3257791/git-tutorial-get-started-with-git-version-control.html
+
+3. "git — Rebase vs Merge" by Filiz Senyuzluler on medium
+link: https://medium.com/datadriveninvestor/git-rebase-vs-merge-cc5199edd77c
+
+4. "Advanced Git Tutorials" on Atlassian
+link: https://www.atlassian.com/git/tutorials/advanced-overview
