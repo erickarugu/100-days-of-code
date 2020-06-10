@@ -1583,3 +1583,27 @@ link: https://medium.com/datadriveninvestor/git-rebase-vs-merge-cc5199edd77c
 
 4. "Advanced Git Tutorials" on Atlassian
 link: https://www.atlassian.com/git/tutorials/advanced-overview
+
+
+### Day 78&79: June 8,9 Mon-Tue
+
+**Objectives:**
+
+- Day 23 - Javascript30 challenge
+ - Complimentr => Final Wrap up on version 2
+
+**Achievements:**
+
+I added the new user registration, google sign, and reset password functionality to the Complimentr app. I learned how to manipulate these firebase functionalities in an Angular project.
+
+link: https://complimentr-ke.web.app
+
+**Readings:**
+
+1. "Firebase Authentication with Angular" by Dayana Jabif 
+link: [https://angular-templates.io/tutorials/about/firebase-authentication-with-angular](https://angular-templates.io/tutorials/about/firebase-authentication-with-angular
+)
+
+2. "Implementing Password Reset with Firebase and Angular" by Clearly Innovative on medium
+
+3. "Pagination in Angular Firestore Firebase DB | Add/fetch Documents. | Integrate Angular Firestore in Project" by Ankit Maheshwari on medium
