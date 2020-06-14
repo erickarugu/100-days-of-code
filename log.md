@@ -1607,3 +1607,29 @@ link: [https://angular-templates.io/tutorials/about/firebase-authentication-with
 2. "Implementing Password Reset with Firebase and Angular" by Clearly Innovative on medium
 
 3. "Pagination in Angular Firestore Firebase DB | Add/fetch Documents. | Integrate Angular Firestore in Project" by Ankit Maheshwari on medium
+
+
+### Day 80&81: June 12-13 Fri-Sat
+
+**Objectives:**
+
+ - Develop Shortly URL shortener website
+ - Day 22 - 25 Javascript30 challenge
+
+**Achievements:**
+
+I created a landing page for a typical URL shortener service - a challenge from the Frontendmentor site. I learned how to make POST requests using Fetch, copy stuff to the clipboard using pure js, and continued to expand my knowledge on how to create good looking responsive UIs in pure CSS by utilizing CSS flexbox.
+
+I went through Wes's Javascrip30 Day22 through 25 challenges. I was excited to learn the following along with links highlighter, speechSynthesis Web Speech API, and more about DOM events => bubbling propagation, etc.
+
+- Git: [https://github.com/erickarugu32/shortly](https://github.com/erickarugu32/shortly)
+- Live: [https://shortly-flame.vercel.app/](https://shortly-flame.vercel.app/)
+
+**Readings:**
+
+1. "Copying to Clipboard Using Vanilla JavaScript"
+link: [https://alligator.io/js/copying-to-clipboard/](https://alligator.io/js/copying-to-clipboard/)
+
+2. "The Best Code Interview Prep Platforms in 2020" by Daniel Borowski on freeCodeCamp
+3. "Hone your JavaScript skills by building these 15 projects" by Beau Carnes on freeCodeCamp
+4. "How to Implement a Linked List in JavaScript" - freeCodeCamp
