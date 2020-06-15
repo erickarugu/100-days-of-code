@@ -1633,3 +1633,29 @@ link: [https://alligator.io/js/copying-to-clipboard/](https://alligator.io/js/co
 2. "The Best Code Interview Prep Platforms in 2020" by Daniel Borowski on freeCodeCamp
 3. "Hone your JavaScript skills by building these 15 projects" by Beau Carnes on freeCodeCamp
 4. "How to Implement a Linked List in JavaScript" - freeCodeCamp
+
+
+### Day 82&83: June 14-15 Sun-Mon
+
+**Objectives:**
+- A sample blog app -> Real-world application(Angular9, Node.js, and MariaDB)
+- Books Web Design - Sample website using Bootstrap
+
+
+**Achievements:**
+I created my first Angular Blog app utilizing the server-side rendering (SSR) with Angular Universal technology. Added a backend API using Node.js and express to provide the articles for the app.
+I learned the difference between Client-side and Server-side rendering, the major one being of course the speed.
+I went through the development of a modern responsive website using Bootstrap and Javascript.
+
+
+**Readings:**
+1. "JavaScript Promise Tutorial: Resolve, Reject, and Chaining in JS and ES6" by Cem Eygi on freeCodeCamp
+
+2. "5 Git Commands You Should Know, with Code Examples " by Sarah Chima Atuonwo on freeCodeCamp
+
+3. "The Cat Command in Linux – How to Create a Text File with Cat or Touch" by Hughie Coles on freeCodeCamp
+
+4. "A Practical Guide to Load Testing" by Dipto Karmakar
+link: [https://www.freecodecamp.org/news/practical-guide-to-load-testing/](https://www.freecodecamp.org/news/practical-guide-to-load-testing/)
+
+5. "JavaScript Date Now – How to Get the Current Date in JavaScript" by Vijit Ail on freeCodeCamp
