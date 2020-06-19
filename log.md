@@ -1659,3 +1659,17 @@ I went through the development of a modern responsive website using Bootstrap an
 link: [https://www.freecodecamp.org/news/practical-guide-to-load-testing/](https://www.freecodecamp.org/news/practical-guide-to-load-testing/)
 
 5. "JavaScript Date Now – How to Get the Current Date in JavaScript" by Vijit Ail on freeCodeCamp
+
+
+### Day 84&85: June 16-17 Tue-Wed
+
+**Objectives:**
+
+- Complete the Javascipt30 challenges
+
+**Achievements:**
+
+I finally created my first Javascipt game- Whack A Mole. With this I completed the JS30 challenge having learnt a couple of JS tricks I would have otherwise missed. Thanks to Wes for the amazing challenges.
+
+**Readings:**
+"Front End Developer vs Back End Developer – Definition and Meaning In Practice" by Colby Fayock on freeCodeCamp
