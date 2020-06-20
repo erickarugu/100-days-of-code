@@ -1673,3 +1673,18 @@ I finally created my first Javascipt game- Whack A Mole. With this I completed t
 
 **Readings:**
 "Front End Developer vs Back End Developer – Definition and Meaning In Practice" by Colby Fayock on freeCodeCamp
+
+
+### Day 86&87: June 16-17 Thur-Fri
+
+**Objectives:**
+
+- JavaScript Objects, Classes, and Prototypes
+
+**Achievements:**
+
+The available different ways to create a class in Javascript - Constructor functions, Object Literals, Object.create, ES6 Classes
+
+Javascript's Writable, Enumerable, Configurable, Set/Get properties
+
+Prototypal inheritance, Inheritance/Prototype properties, Multiple Inheritance, Prototypal Inheritance Structures in JavaScript
