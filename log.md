@@ -1688,3 +1688,33 @@ The available different ways to create a class in Javascript - Constructor funct
 Javascript's Writable, Enumerable, Configurable, Set/Get properties
 
 Prototypal inheritance, Inheritance/Prototype properties, Multiple Inheritance, Prototypal Inheritance Structures in JavaScript
+
+
+### Day 88&89: [June 22-23 Mon-Tue]
+**Objectives:**
+
+- Design and develop a home page {client work}
+- Submit FrontEndMentor challenges solutions
+
+**Achievements:**
+
+I designed and created a landing page using the new Bootstrap v5 and AOS CSS3 animation library.
+I completed and submitted solutions to two design challenges from [https://frontendmentor.io](https://frontendmentor.io)
+
+Links:
+ - A landing page: [https://shortly-flame.vercel.app/](https://shortly-flame.vercel.app/)
+ - A signup page: [https://intro-sign-up.now.sh/](https://intro-sign-up.now.sh/)
+
+***Resources:**
+
+1. I came across this thread on Twitter and wow, it's one of the best resourceful content I have come across of late.
+"Here's a list of JavaScript fundamentals and my favorite free resources for learning them." by @Madisonkanna on twitter
+ - link: https://twitter.com/Madisonkanna/status/1274424134139666432
+
+2. FrontEnd Mentor resources list
+ - link: [https://www.frontendmentor.io/resources](https://www.frontendmentor.io/resources)
+
+**Articles:**
+
+1. "10 Rules of Studying Every Software Developer Should Follow" by 
+Carol-Theodor Pelu on freeCodeCamp
