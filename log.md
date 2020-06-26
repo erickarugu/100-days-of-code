@@ -1718,3 +1718,31 @@ Links:
 
 1. "10 Rules of Studying Every Software Developer Should Follow" by 
 Carol-Theodor Pelu on freeCodeCamp
+
+
+### Day 90&91: June 24-25 Wed-Thur
+
+**Objectives:**
+
+- Stories App => Brad Traversy
+- Create a REST API
+- Node.js, Express refresher
+ 
+**Achievements:**
+
+Introduction to working with Passport, Node.js's authentication middleware (Oauth 2.0 Strategy)
+Created a Stories App using Node.js, Express, Passport, and Mongo DB thanks to Traversy Media on YouTube.
+Worked with JWT to create an authentication REST API using Node.js and Express
+
+
+**Resources:**
+
+ - Lighthouse: https://developers.google.com/web/tools/lighthouse#devtools
+
+
+**Articles:**
+
+1. "6 Tools You Can Use to Check for Vulnerabilities in Node.js" by Dillion Megida on freeCodeCamp
+
+2. "Evaluating page experience for a better web " by Google
+link: https://webmasters.googleblog.com/2020/05/evaluating-page-experience.html
