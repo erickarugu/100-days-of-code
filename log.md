@@ -1746,3 +1746,44 @@ Worked with JWT to create an authentication REST API using Node.js and Express
 
 2. "Evaluating page experience for a better web " by Google
 link: https://webmasters.googleblog.com/2020/05/evaluating-page-experience.html
+
+
+### Day 92&93: [June 26-27 Fri-Sat]
+***Objectives:***
+
+- Deploying Node Apps to Heroku
+- Blog Articles App => Node.js, Express and MongoDB
+- Real-Time Chat App - Socket.io
+- Advanced NPM
+
+***Achievements:***
+
+I effectively deployed  my first Node.js app to Heroku - a Stories App whose main focus was to master the building blocks of Node.js by implementing the CRUD functionalities with MongoDB as the choice database. 
+
+Introduction to working with Socket.io I created a Real-time Chat app using Socket.io and Vanilla JS- no framework. I wanted to get the taste of working with Socket.io and how to integrate that in Node.js to create a functional app.
+
+Dived deep into working with NPM. I  learned how to effectively work with npm(beyond the basics) to create packages/apps that can be used by other people/public plus how to effectively publish an npm package to the npm registry to help others too.
+
+Live: http://digi-stories.herokuapp.com/
+
+***Resources:***
+
+- Getting Started with NPM - am amazing course by Joe Eames on Pluralsight
+- "Node.js App From Scratch | Express, MongoDB & Google OAuth" by Traversy: https://www.youtube.com/watch?v=SBvmnHTQIPY&t=5s
+- "How To Build A Markdown Blog Using Node.js, Express, And MongoDB" by Web Dev Simplified: https://www.youtube.com/watch?v=1NrHkjlWVhM
+- "Build A Restful Api With Node.js Express & MongoDB | Rest Api Tutorial" by Dev Ed: https://www.youtube.com/watch?v=vjf774RKrLc
+
+***Articles:***
+
+1. "How to deploy your Node.js / MongoDB app to the web, using Heroku" by Nicolai Safai on medium
+
+2. "Deploying a Node.js App to Heroku" by Tom Kadwill on Stack ABuse
+link: https://stackabuse.com/deploying-a-node-js-app-to-heroku/
+
+3. "Managing environment variables in Nodejs and Modern JS apps" by Mahmoud Felfel on Medium
+link: https://medium.com/dubizzletechblog/managing-environment-variables-in-nodejs-and-modern-js-apps-608003f4686c
+
+***Today's FunFact:***
+``
+*npm* was officially acquired by GitHub in April this year. This move will see GitHub integrate the npm registry into their platform by the end of this year. In extension, it is also worth noting that GitHub itself was officially acquired by Microsoft back in 2018 for $7.5B in stock, a move that angered many developers around the world. The acquisition deal was confirmed by GitHub's CEO, Nat Friedman, in a blog post published on GitHub page in April, this year. Following this action, Microsoft has promised that nothing will change in terms of how developers work with the registry.
+``
