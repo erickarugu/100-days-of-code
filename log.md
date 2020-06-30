@@ -1812,3 +1812,41 @@ I continued practicing working with npm commands
 1. " How to configure Webpack 4 from scratch for a basic website " by Antoe Melnyk on Dev.to
 link: https://dev.to/pixelgoo/how-to-configure-webpack-from-scratch-for-a-basic-website-46a5
 
+
+
+### Special Day 96: [June 30 - Tue]
+***Todays Goals:***
+
+- Design Pattern 1 - Creational Design Patterns(Continuation)
+- Reminiscence(not code related but, why not)
+- Setting up a Payment with Node.js and Stripe
+
+***Achievements:***
+
+Continued with working on WebPack Configuration set for a simple Website.
+I created a simple Payments Service with Checkout cart. Introduction to working with Stripe payment gateway plus how to integrate it with a Node application.
+
+1. WebPack Boilerplate: https://github.com/erickarugu32/webpack-boilerplate
+
+***Resources:***
+
+- GSAP - Animation library
+- link: https://greensock.com/gsap/
+
+- Webpack - open-source JS modules bundler
+Link: https://webpack.js.org/guides/development/
+
+- Daily Developer Tips
+Link: https://gomakethings.com/articles/
+
+***Articles:***
+
+1. "A mostly complete guide to web pack (2020)" by Valentino Gagliardi
+link: https://www.valentinog.com/blog/webpack/
+
+***Reminiscence***
+
+Technically, today was supposed to be my last day(the 100th day-Round 1) in this #100DaysOfCode challenge. However, due to unavoidable situations, it's the 96th: I still have four-ish(4) days to go. Nevertheless, I am glad that I was able to utilize 26(86%) of the available 30 days this month(June). In the course of this challenge, I have seen remarkable personal growth in how I manage my time. Also, I have developed other daily routines that have made me a better programmer and person in general. It is as a result of participating in this challenge that I have also been able to program my mind to anticipate various daily tasks at specific times. Consequently, this has made my life fun, easy, organized, and productive. I cannot imagine how my last three months of self-isolation would have been without taking part in this challenge.
+I intend to continue with this routine even after the challenge and make this my day to day habit.
+
+Thank you Gathosh for agreeing to do this with me
