@@ -1787,3 +1787,28 @@ link: https://medium.com/dubizzletechblog/managing-environment-variables-in-node
 ``
 *npm* was officially acquired by GitHub in April this year. This move will see GitHub integrate the npm registry into their platform by the end of this year. In extension, it is also worth noting that GitHub itself was officially acquired by Microsoft back in 2018 for $7.5B in stock, a move that angered many developers around the world. The acquisition deal was confirmed by GitHub's CEO, Nat Friedman, in a blog post published on GitHub page in April, this year. Following this action, Microsoft has promised that nothing will change in terms of how developers work with the registry.
 ``
+
+### Day 94&95: [June 28-29 Sun-Mon]
+
+***Objectives:***
+
+- JavaScript Design Patterns-
+- Frontendmentor challenge - Four card feature 
+- Configuring Web Pack
+- Continue with Node
+
+***Achievements:***
+
+I learned how to configure WebPack.
+I completed and submitted a fontendmentor challenge - Four card feature
+Introduction to the design patterns especially in JavaScript
+I continued practicing working with npm commands
+
+- Link: https://four-card-feature-section-orpin-rho.vercel.app/
+- Repo: https://github.com/erickarugu32/Frontendmentor-Challenges
+
+***Resource&Articles:***
+
+1. " How to configure Webpack 4 from scratch for a basic website " by Antoe Melnyk on Dev.to
+link: https://dev.to/pixelgoo/how-to-configure-webpack-from-scratch-for-a-basic-website-46a5
+
