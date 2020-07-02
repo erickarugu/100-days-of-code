@@ -1850,3 +1850,26 @@ Technically, today was supposed to be my last day(the 100th day-Round 1) in this
 I intend to continue with this routine even after the challenge and make this my day to day habit.
 
 Thank you Gathosh for agreeing to do this with me
+
+
+### Day 97-98: { July 1 ,2 }
+
+***Goals:***
+
+- Set up a laravel project
+- Deploy project on netlify + Domain customization(DNS, SSL, and TLS)
+
+***Achievements:***
+
+I learned how to configure a laravel environment and set a project with the aim of familiarizing myself with the framework to work with PHP back end devs on projects.
+I also deployed a project on netlify and added a custom domain - was interested in I the domain customization(DNS and TLS/SSL configuration)
+
+- Configured project(I have note updated the code though): https://erickarugu.com
+
+***Articles:***
+
+1. "The bullish coalescing operator in vanilla JS (sorry, the what now?) "
+link: https://gomakethings.com/the-nullish-coalescing-operator-in-vanilla-js-sorry-the-what-now/
+
+2. "Getting all of an elements siblings with vanilla JS "
+link: https://gomakethings.com/getting-all-of-an-elements-siblings-with-vanilla-js/
