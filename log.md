@@ -1873,3 +1873,23 @@ link: https://gomakethings.com/the-nullish-coalescing-operator-in-vanilla-js-sor
 
 2. "Getting all of an elements siblings with vanilla JS "
 link: https://gomakethings.com/getting-all-of-an-elements-siblings-with-vanilla-js/
+
+
+### Hurray! Day 99-100: { July 4,5 }
+
+***Goals:***
+
+- Basic JavaScript Calculator
+ -ES6 Modules and Classes
+
+***Achievements:***
+
+I decided to end the journey similar to how I began - with a simple project. I created a simple JS calculator.
+I went through the new ES6 addons - Modules and Classes
+Reflecting on my achievements in the course of the past 100 days day.
+
+- Full Log: https://rel.ink/nY847J
+
+***Fun Fact***
+Well, I think this one is not funny at all but it's worth highlighting.
+GitHub's master branch naming convention was adopted from ancient slavery practices. Before the uprising of the now heated "Black Lives Matter" protests, it was impossible to change the name or add another default branch instead of the "master".  The master branch was also created by default and was not disposable where other branches could be merged with the master and/or deleted. After heavy criticism, GitHub has however changed this convention and now the master branch can be deleted and the default responsibility delegated to another branch. Other alternatives names that have emerged for the default branch are "main" and "default".
