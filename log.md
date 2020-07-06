@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log (Round 1) MArch 21st - 5th July 2020
 
 ### Day 0: March 21, Saturday 
 
